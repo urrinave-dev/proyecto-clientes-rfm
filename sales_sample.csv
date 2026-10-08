@@ -1,0 +1,2001 @@
+Date,Region,Product,Category,SalesRep,Quantity,UnitPrice,Discount,Revenue,CustomerID
+2024-11-17,West,Product D,Home & Garden,Alice,67,28.61,0.01,2467.01,7247
+2023-04-13,Central,Product C,Books,Diana,30,497.35,0.11,13279.24,9432
+2023-03-29,East,Product B,Clothing,Bob,76,246.17,0.01,18521.83,2896
+2023-09-13,Central,Product A,Books,Charlie,29,380.44,0.03,10701.78,8883
+2023-10-11,Central,Product E,Clothing,Bob,3,231.63,0.18,740.7529999999999,4324
+2024-10-27,South,Product E,Home & Garden,Eva,90,31.15,0.26,2696.967,1813
+2024-06-21,East,Product A,Home & Garden,Alice,57,161.7,0.04,8848.22,5750
+2024-04-17,East,Product A,Sports,Diana,30,166.85,0.14,4304.73,8618
+2024-02-24,East,Product B,Clothing,Eva,9,420.79,0.27,2764.59,1782
+2023-04-28,Central,Product C,Sports,Eva,26,330.57,0.24,6532.06,5055
+2024-01-18,West,Product E,Clothing,Frank,2,144.96,0.16,243.53,8789
+2024-02-05,East,Product B,Sports,Eva,62,484.19,0.23,23115.23,9199
+2023-12-02,Central,Product C,Home & Garden,Alice,3,167.56,0.16,548.9250000000001,4139
+2023-07-04,South,Product B,Books,Charlie,46,499.13,0.05,21811.98,6007
+2023-08-15,West,Product E,Sports,Alice,68,498.12,0.04,32517.27,5051
+2023-08-25,South,Product A,Clothing,Charlie,25,103.69,0.06,2436.71,8575
+2023-09-25,West,Product A,Clothing,Eva,51,163.24,0.11,7409.46,9709
+2023-12-27,Central,Product C,Home & Garden,Eva,13,248.16,0.28,3019.6140000000005,4190
+2023-04-01,North,Product D,Clothing,Henry,44,335.41,0.24,11216.11,6637
+2023-08-11,West,Product C,Electronics,Diana,35,268.74,0.13,8183.13,1578
+2024-03-04,South,Product D,Books,Charlie,55,485.03,0.15,22675.15,9138
+2023-04-03,Central,Product B,Sports,Eva,87,364.75,0.08,29194.59,5482
+2024-11-28,West,Product B,Books,Frank,9,113.9,0.21,1052.779,2865
+2024-03-27,North,Product E,Home & Garden,Henry,2,61.5,0.24,93.48,6489
+2024-04-01,North,Product D,Sports,Bob,61,347.32,0.07,19703.46,2376
+2023-02-14,East,Product E,Sports,Henry,41,87.64,0.01,3557.31,6408
+2023-06-16,East,Product A,Electronics,Diana,44,395.96,0.19,14112.01,9163
+2023-12-13,South,Product D,Home & Garden,Alice,64,162.41,0.17,11215.386,6058
+2023-06-18,West,Product C,Clothing,Diana,31,170.18,0.12,4642.51,7283
+2023-03-06,West,Product A,Electronics,Bob,47,15.29,0.19,582.09,2976
+2023-04-19,East,Product A,Electronics,Henry,2,353.5,0.17,586.81,7443
+2023-04-19,West,Product C,Books,Charlie,96,65.5,0.08,5784.96,5759
+2023-04-06,West,Product A,Books,Alice,82,388.71,0.12,28049.31,8595
+2024-03-05,North,Product D,Books,Alice,77,251.02,0.13,16815.83,5920
+2023-10-05,East,Product E,Electronics,Charlie,69,394.3,0.26,26172.847999999998,2887
+2023-03-21,Central,Product A,Clothing,Grace,58,296.12,0.29,12194.22,1991
+2023-12-10,East,Product D,Sports,Grace,44,50.39,0.27,2104.089,6228
+2023-05-25,Central,Product B,Books,Diana,74,385.17,0.22,22232.01,9046
+2023-03-03,North,Product D,Clothing,Eva,56,44.2,0.18,2029.66,7450
+2024-10-30,South,Product E,Home & Garden,Grace,43,244.56,0.21,10800.010000000002,4604
+2024-05-26,West,Product D,Books,Diana,89,94.45,0.28,6052.36,2083
+2024-02-27,North,Product C,Sports,Grace,34,378.64,0.07,11972.6,9626
+2024-07-16,West,Product E,Home & Garden,Bob,30,456.68,0.16,11508.34,1020
+2023-10-31,South,Product B,Home & Garden,Frank,71,281.52,0.21,20527.597999999998,2099
+2024-07-01,South,Product C,Sports,Eva,70,268.3,0.2,15024.8,7841
+2023-07-06,North,Product D,Books,Diana,55,384.34,0.08,19447.6,3637
+2024-06-30,South,Product E,Electronics,Frank,67,12.49,0.18,686.2,9581
+2023-04-10,Central,Product B,Sports,Frank,13,459.7,0.24,4541.84,8744
+2023-07-10,South,Product C,Sports,Henry,3,106.75,0.14,275.42,4413
+2023-02-18,West,Product B,Sports,Grace,26,492.22,0.24,9726.27,8457
+2024-08-15,West,Product D,Home & Garden,Henry,57,370.76,0.11,18808.65,2354
+2023-09-13,West,Product B,Clothing,Charlie,24,389.38,0.28,6728.49,7402
+2023-09-03,West,Product A,Electronics,Bob,53,331.54,0.16,14760.16,5521
+2024-06-01,Central,Product C,Books,Bob,70,241.11,0.18,13839.71,6125
+2024-04-29,East,Product B,Books,Bob,43,290.1,0.01,12349.56,1005
+2024-10-15,North,Product D,Clothing,Eva,60,32.74,0.05,2426.034,9382
+2023-06-14,West,Product D,Sports,Alice,58,315.74,0.19,14833.47,9339
+2024-10-05,South,Product B,Electronics,Eva,49,316.79,0.13,17556.188000000002,5353
+2024-06-20,West,Product D,Books,Diana,42,446.69,0.15,15946.83,4550
+2024-11-20,South,Product E,Books,Frank,76,257.77,0.02,24958.323,9031
+2023-08-07,South,Product E,Sports,Frank,66,47.8,0.25,2366.1,5105
+2024-08-28,West,Product E,Clothing,Henry,11,160.04,0.24,1337.93,6083
+2023-06-11,Central,Product A,Electronics,Alice,98,331.26,0.06,30515.67,9816
+2023-11-04,South,Product B,Clothing,Diana,90,127.24,0.19,12058.539999999999,3175
+2023-08-14,South,Product A,Clothing,Alice,18,147.46,0.25,1990.71,9737
+2024-09-15,West,Product D,Electronics,Frank,85,412.03,0.19,28368.27,6224
+2023-10-14,South,Product A,Electronics,Grace,52,296.32,0.09,18228.418,2195
+2023-08-24,South,Product D,Books,Eva,46,259.18,0.2,9537.82,3069
+2023-05-28,West,Product D,Books,Bob,44,166.04,0.06,6867.41,4358
+2023-08-15,West,Product C,Electronics,Frank,22,368.15,0.1,7289.37,3438
+2023-01-27,North,Product E,Home & Garden,Charlie,53,150.98,0.07,7441.8,9808
+2023-04-03,Central,Product D,Books,Bob,59,371.16,0.17,18175.71,5244
+2023-04-29,Central,Product C,Home & Garden,Frank,94,44.35,0.03,4043.83,4343
+2024-05-29,South,Product E,Electronics,Eva,30,433.63,0.28,9366.41,2811
+2023-03-17,Central,Product D,Books,Alice,8,254.79,0.1,1834.49,1171
+2023-02-27,South,Product D,Clothing,Grace,98,224.87,0.07,20494.65,5142
+2024-03-05,North,Product A,Electronics,Grace,57,309.4,0.15,14990.43,1625
+2024-02-15,West,Product A,Sports,Bob,73,315.85,0.08,21212.49,6906
+2024-11-06,West,Product E,Home & Garden,Eva,20,74.7,0.16,1631.448,8983
+2024-12-09,West,Product D,Electronics,Grace,25,380.55,0.1,11131.094,5063
+2023-03-19,Central,Product B,Electronics,Grace,19,145.2,0.04,2648.45,9644
+2024-12-08,North,Product A,Books,Diana,5,453.43,0.08,2711.5140000000006,9142
+2023-06-22,Central,Product E,Books,Charlie,75,410.75,0.13,26801.44,1753
+2024-08-10,Central,Product D,Books,Bob,79,179.67,0.01,14051.99,7851
+2023-04-03,North,Product D,Sports,Alice,72,405.79,0.23,22497.0,6104
+2023-11-12,North,Product B,Books,Grace,83,184.63,0.19,16136.471000000001,8343
+2023-11-29,North,Product E,Electronics,Diana,87,59.46,0.18,5514.444,7926
+2024-01-27,North,Product D,Books,Eva,27,481.33,0.16,10916.56,7827
+2023-11-02,West,Product A,Clothing,Grace,40,329.77,0.18,14061.398,9359
+2023-07-25,East,Product B,Books,Henry,96,233.49,0.28,16138.83,4685
+2024-05-15,East,Product E,Sports,Charlie,26,204.91,0.0,5327.66,9277
+2023-09-27,North,Product B,Clothing,Alice,27,169.11,0.01,4520.31,2982
+2024-12-06,East,Product A,Electronics,Eva,62,490.91,0.06,37193.299,5944
+2023-09-02,East,Product E,Electronics,Eva,83,76.03,0.05,5994.97,8892
+2024-08-04,North,Product B,Home & Garden,Bob,50,164.25,0.05,7801.88,9191
+2024-07-07,East,Product C,Clothing,Grace,42,247.89,0.2,8329.1,9633
+2024-10-15,Central,Product A,Home & Garden,Bob,29,244.22,0.14,7918.1050000000005,9462
+2023-11-14,South,Product A,Clothing,Alice,39,240.97,0.3,8552.024,1343
+2024-01-14,South,Product A,Clothing,Henry,60,96.13,0.07,5364.05,4081
+2024-02-01,North,Product C,Sports,Grace,41,81.02,0.09,3022.86,7637
+2023-02-13,West,Product C,Home & Garden,Frank,33,134.84,0.3,3114.8,3291
+2024-10-09,North,Product D,Sports,Grace,83,458.12,0.25,37073.361000000004,2532
+2023-08-20,West,Product B,Clothing,Henry,83,65.4,0.14,4668.25,5362
+2024-07-23,South,Product D,Electronics,Frank,97,381.14,0.17,30685.58,2653
+2024-02-10,North,Product B,Clothing,Eva,16,381.2,0.25,4574.4,5988
+2024-12-03,Central,Product C,Sports,Bob,23,406.79,0.14,10460.203000000001,7344
+2023-12-11,East,Product C,Home & Garden,Charlie,7,444.44,0.06,3801.746,9430
+2024-07-03,West,Product D,Home & Garden,Grace,26,138.89,0.25,2708.35,2438
+2024-03-17,East,Product E,Sports,Charlie,96,120.03,0.16,9679.22,4016
+2024-02-29,East,Product D,Home & Garden,Grace,12,238.1,0.05,2714.34,9166
+2023-12-04,North,Product B,Books,Eva,72,139.89,0.15,11129.651000000002,7389
+2024-03-17,East,Product D,Electronics,Bob,5,369.81,0.12,1627.16,6977
+2023-10-15,Central,Product A,Electronics,Alice,92,321.61,0.26,28463.773,4079
+2024-08-24,East,Product B,Electronics,Alice,69,438.74,0.04,29062.14,7295
+2023-11-04,North,Product B,Home & Garden,Alice,49,50.54,0.26,2382.354,3258
+2024-03-20,Central,Product E,Home & Garden,Grace,26,458.39,0.15,10130.42,9558
+2024-05-08,South,Product C,Clothing,Grace,5,153.74,0.12,676.46,3991
+2024-05-03,East,Product B,Clothing,Charlie,22,250.44,0.05,5234.2,4741
+2024-09-19,North,Product C,Electronics,Bob,79,224.92,0.21,14037.26,1085
+2024-12-15,South,Product D,Books,Henry,13,382.55,0.28,4654.871,3493
+2024-04-01,South,Product A,Clothing,Grace,28,215.96,0.11,5381.72,7447
+2023-06-09,West,Product E,Clothing,Bob,33,472.34,0.07,14496.11,9323
+2023-08-02,Central,Product C,Home & Garden,Charlie,23,452.24,0.17,8633.26,8588
+2023-03-13,East,Product B,Books,Grace,97,437.36,0.24,32242.18,1903
+2023-12-12,North,Product C,Electronics,Alice,18,44.92,0.0,1051.128,6083
+2024-05-04,West,Product B,Clothing,Alice,30,428.59,0.19,10414.74,7190
+2023-10-04,Central,Product C,Books,Eva,26,393.0,0.18,10892.388,3804
+2023-01-22,West,Product B,Books,Frank,16,60.72,0.1,874.37,2226
+2024-12-14,Central,Product D,Electronics,Diana,77,62.63,0.14,5391.568,2284
+2024-05-02,Central,Product B,Books,Henry,39,59.57,0.07,2160.6,1689
+2024-06-18,East,Product B,Books,Frank,33,15.55,0.24,389.99,6143
+2023-05-06,Central,Product A,Books,Grace,26,278.83,0.19,5872.16,5782
+2024-10-23,West,Product B,Clothing,Bob,48,486.96,0.16,25524.499,5881
+2023-10-15,Central,Product A,Electronics,Grace,65,224.96,0.12,16728.023,5507
+2024-04-04,East,Product E,Books,Bob,38,274.97,0.09,9508.46,2996
+2024-08-25,East,Product A,Books,Bob,2,484.31,0.25,726.46,5381
+2024-02-05,West,Product D,Clothing,Frank,6,135.04,0.14,696.81,8680
+2024-12-17,South,Product A,Electronics,Diana,46,430.65,0.15,21889.933,1429
+2024-07-10,South,Product E,Home & Garden,Eva,50,277.73,0.16,11664.66,6700
+2024-09-11,Central,Product D,Clothing,Frank,38,289.04,0.13,9555.66,4781
+2023-09-16,North,Product C,Electronics,Diana,88,178.16,0.08,14423.83,9794
+2023-04-22,Central,Product C,Books,Alice,18,285.18,0.04,4927.91,9631
+2023-05-21,West,Product A,Electronics,Alice,27,45.84,0.03,1200.55,6468
+2024-06-08,West,Product A,Electronics,Bob,41,384.68,0.23,12144.35,5507
+2024-11-02,West,Product E,Electronics,Charlie,72,149.5,0.07,13013.676000000001,1527
+2023-06-29,West,Product E,Home & Garden,Grace,92,444.93,0.02,40114.89,3996
+2024-12-26,West,Product B,Electronics,Grace,74,190.25,0.24,13909.558,4467
+2023-04-21,East,Product E,Home & Garden,Bob,17,79.98,0.05,1291.68,2361
+2024-07-12,South,Product B,Books,Charlie,62,350.98,0.19,17626.22,7817
+2024-10-06,West,Product D,Home & Garden,Henry,29,90.64,0.1,3075.41,1703
+2023-05-14,North,Product A,Books,Diana,58,379.3,0.04,21119.42,1662
+2023-07-07,North,Product D,Books,Henry,70,484.37,0.12,29837.19,9556
+2024-10-15,North,Product E,Home & Garden,Henry,78,391.98,0.0,39746.772,7256
+2023-03-03,North,Product D,Clothing,Alice,22,21.0,0.25,346.5,9367
+2024-11-18,East,Product D,Sports,Henry,6,303.94,0.15,2015.117,6297
+2023-02-21,North,Product D,Electronics,Grace,26,350.75,0.04,8754.72,9573
+2024-08-20,West,Product E,Sports,Frank,39,414.47,0.07,15032.83,6378
+2024-12-09,Central,Product D,Electronics,Charlie,12,37.44,0.13,508.13100000000003,1305
+2023-07-06,North,Product B,Electronics,Diana,99,245.25,0.06,22822.96,6497
+2024-02-18,East,Product E,Books,Alice,14,272.33,0.08,3507.61,5697
+2024-05-28,East,Product D,Electronics,Henry,22,92.87,0.16,1716.24,3390
+2023-02-28,North,Product E,Electronics,Frank,51,168.0,0.25,6426.0,8222
+2024-06-04,Central,Product C,Home & Garden,Charlie,23,225.71,0.12,4568.37,8933
+2024-08-01,North,Product B,Sports,Bob,48,418.27,0.22,15660.03,2465
+2024-01-09,East,Product D,Home & Garden,Bob,71,465.41,0.26,24452.64,8852
+2023-11-22,South,Product C,Electronics,Bob,50,317.93,0.06,19425.523,1402
+2023-02-04,West,Product C,Books,Grace,89,203.52,0.24,13766.09,7940
+2024-04-02,East,Product E,Home & Garden,Diana,13,134.48,0.23,1346.14,3670
+2024-07-01,North,Product C,Home & Garden,Bob,85,491.25,0.11,37163.06,9095
+2023-11-10,West,Product B,Clothing,Grace,10,491.68,0.3,4474.2880000000005,9368
+2024-06-14,North,Product B,Electronics,Eva,55,463.24,0.08,23439.94,5544
+2024-03-28,North,Product A,Books,Grace,9,394.98,0.08,3270.43,9934
+2023-03-04,South,Product B,Home & Garden,Alice,79,169.63,0.23,10318.59,6660
+2023-08-09,West,Product C,Home & Garden,Grace,52,410.33,0.13,18563.33,7074
+2023-01-05,West,Product B,Books,Diana,2,210.31,0.1,378.56,3348
+2024-07-13,South,Product E,Electronics,Frank,25,170.12,0.05,4040.35,7850
+2023-10-15,East,Product A,Clothing,Henry,13,374.98,0.23,4879.615000000001,5402
+2024-05-28,North,Product C,Home & Garden,Grace,98,49.03,0.24,3651.75,1750
+2023-06-21,Central,Product A,Clothing,Bob,51,33.8,0.17,1430.75,5062
+2024-07-02,North,Product C,Sports,Alice,58,229.5,0.29,9450.81,8434
+2024-03-28,North,Product E,Electronics,Charlie,34,228.36,0.1,6987.82,9405
+2023-11-27,East,Product A,Sports,Bob,35,448.87,0.07,18993.936,2617
+2024-01-30,North,Product D,Sports,Alice,3,71.82,0.2,172.37,3530
+2024-11-18,South,Product C,Sports,Eva,59,70.41,0.23,4158.349,4333
+2024-09-24,South,Product D,Electronics,Henry,70,82.25,0.07,5354.48,8234
+2024-08-08,West,Product A,Electronics,Charlie,48,24.57,0.02,1155.77,6768
+2023-09-14,Central,Product D,Books,Eva,64,45.15,0.24,2196.1,8707
+2024-12-09,North,Product D,Clothing,Frank,19,333.34,0.29,5845.7880000000005,1511
+2023-05-02,North,Product A,Clothing,Alice,67,221.48,0.19,12019.72,6082
+2023-12-10,East,Product E,Books,Eva,82,384.17,0.08,37676.314,7860
+2024-12-20,South,Product D,Books,Henry,73,496.37,0.3,32973.863,1252
+2023-12-13,Central,Product D,Sports,Henry,76,332.93,0.27,24012.248,5133
+2024-12-28,West,Product E,Books,Frank,5,34.72,0.15,191.828,9820
+2023-07-01,South,Product D,Home & Garden,Henry,67,61.24,0.25,3077.31,4476
+2024-10-31,West,Product D,Clothing,Alice,11,441.69,0.24,4800.289000000001,2725
+2023-02-06,East,Product D,Books,Alice,94,268.47,0.28,18170.05,3093
+2024-01-31,East,Product B,Home & Garden,Henry,68,414.17,0.25,21122.67,2701
+2023-02-01,North,Product E,Home & Garden,Eva,69,429.74,0.19,24018.17,9496
+2023-03-27,Central,Product D,Home & Garden,Alice,1,464.56,0.18,380.94,6834
+2024-07-19,West,Product E,Home & Garden,Bob,91,475.42,0.14,37206.37,5340
+2023-01-12,South,Product C,Sports,Henry,92,281.86,0.19,21004.21,3807
+2023-07-06,East,Product C,Home & Garden,Alice,63,177.1,0.24,8479.55,7301
+2023-07-08,North,Product D,Sports,Diana,29,481.31,0.29,9910.17,8572
+2024-02-28,North,Product E,Sports,Frank,82,278.23,0.14,19620.78,2024
+2023-02-19,West,Product E,Home & Garden,Henry,12,41.48,0.17,413.14,3975
+2023-04-03,East,Product E,Clothing,Alice,77,324.96,0.13,21769.07,9698
+2024-02-02,Central,Product B,Home & Garden,Diana,41,297.97,0.2,9773.42,5856
+2024-03-17,East,Product C,Home & Garden,Alice,2,448.94,0.19,727.28,7724
+2023-05-12,West,Product E,Home & Garden,Alice,37,330.06,0.01,12090.1,3567
+2024-05-15,West,Product E,Clothing,Eva,45,181.04,0.16,6843.31,5587
+2024-03-18,East,Product B,Electronics,Bob,80,483.45,0.03,37515.72,5922
+2023-08-27,West,Product B,Electronics,Henry,48,402.79,0.01,19140.58,6046
+2024-03-02,East,Product E,Sports,Frank,24,318.9,0.24,5816.74,3894
+2024-06-13,South,Product A,Sports,Henry,99,153.53,0.08,13983.51,8203
+2024-03-18,East,Product E,Clothing,Bob,22,193.03,0.1,3821.99,8478
+2024-10-28,East,Product E,Books,Charlie,11,338.29,0.02,4740.801,6274
+2023-02-18,West,Product B,Electronics,Eva,58,45.27,0.05,2494.38,4613
+2023-02-11,West,Product B,Sports,Eva,46,135.77,0.23,4808.97,1038
+2023-08-28,North,Product E,Electronics,Bob,29,359.81,0.15,8869.32,4084
+2024-05-13,North,Product E,Clothing,Grace,35,245.21,0.26,6350.94,7265
+2024-06-05,South,Product E,Clothing,Eva,15,207.17,0.12,2734.64,7598
+2024-04-02,North,Product B,Books,Henry,60,84.21,0.08,4648.39,3415
+2023-12-24,East,Product E,Books,Bob,95,226.51,0.1,25176.579999999998,1758
+2024-06-08,West,Product E,Clothing,Eva,42,387.64,0.21,12861.9,5342
+2023-11-16,North,Product D,Sports,Alice,43,139.37,0.17,6466.356,8066
+2023-12-31,North,Product A,Electronics,Bob,80,12.65,0.27,960.388,4116
+2024-01-24,South,Product C,Home & Garden,Bob,74,337.57,0.18,20483.75,1764
+2023-12-16,South,Product A,Books,Henry,49,486.59,0.15,26346.411000000004,5029
+2023-11-21,East,Product D,Home & Garden,Diana,64,307.35,0.24,19434.350000000002,7445
+2024-04-22,West,Product C,Sports,Eva,32,68.76,0.28,1584.23,8443
+2024-12-09,South,Product E,Books,Eva,64,167.16,0.11,12377.859,2317
+2023-03-21,North,Product D,Home & Garden,Bob,2,435.14,0.07,809.36,1700
+2023-07-15,West,Product E,Sports,Alice,24,123.96,0.18,2439.53,8527
+2023-05-10,West,Product B,Electronics,Alice,87,307.77,0.15,22759.59,5383
+2023-09-24,North,Product D,Sports,Frank,66,207.31,0.3,9577.72,2593
+2024-10-16,South,Product B,Books,Alice,38,111.84,0.14,4751.409,5145
+2024-10-17,North,Product D,Clothing,Eva,31,408.57,0.02,16136.068000000001,7707
+2024-01-15,West,Product D,Electronics,Grace,26,373.99,0.29,6903.86,7997
+2024-08-13,Central,Product B,Home & Garden,Diana,29,334.18,0.25,7268.41,8026
+2024-02-20,Central,Product C,Books,Bob,67,125.8,0.05,8007.17,3612
+2023-04-29,East,Product A,Clothing,Charlie,78,57.95,0.27,3299.67,8399
+2023-07-13,North,Product E,Sports,Diana,25,292.32,0.1,6577.2,2908
+2024-04-14,North,Product D,Clothing,Henry,48,281.3,0.11,12017.14,7954
+2024-07-23,East,Product E,Books,Henry,65,102.31,0.27,4854.61,2790
+2024-11-17,East,Product B,Books,Grace,53,37.56,0.16,2173.8210000000004,9168
+2024-08-25,East,Product E,Clothing,Charlie,67,49.55,0.04,3187.06,3928
+2023-07-11,West,Product B,Sports,Diana,90,496.46,0.11,39766.45,8681
+2024-06-09,North,Product E,Clothing,Alice,18,393.96,0.22,5531.2,6251
+2023-12-09,West,Product A,Books,Eva,9,461.77,0.05,5132.569,5127
+2024-06-07,East,Product A,Books,Grace,38,105.58,0.18,3289.87,5963
+2024-08-19,North,Product A,Home & Garden,Charlie,87,480.68,0.21,33037.14,6311
+2023-11-17,West,Product A,Home & Garden,Grace,21,79.9,0.1,1963.143,9792
+2023-10-11,West,Product A,Electronics,Diana,65,259.45,0.21,17319.588,3025
+2024-03-20,East,Product A,Books,Eva,21,416.55,0.27,6385.71,8815
+2023-01-19,North,Product B,Home & Garden,Grace,27,181.4,0.14,4212.11,1987
+2023-05-20,East,Product D,Clothing,Charlie,70,218.17,0.11,13591.99,6310
+2024-08-15,North,Product E,Sports,Bob,44,72.81,0.08,2947.35,2965
+2023-08-21,Central,Product A,Clothing,Diana,28,70.23,0.18,1612.48,8316
+2023-04-25,South,Product B,Sports,Bob,45,313.59,0.26,10442.55,1868
+2023-08-25,South,Product B,Home & Garden,Alice,17,341.01,0.1,5217.45,3063
+2023-01-01,South,Product B,Electronics,Bob,40,390.89,0.12,13759.33,2129
+2024-03-23,East,Product D,Clothing,Bob,3,282.77,0.12,746.51,5378
+2023-10-05,Central,Product E,Clothing,Frank,76,326.42,0.17,26767.741,6154
+2024-03-13,North,Product D,Clothing,Diana,76,16.62,0.07,1174.7,7256
+2024-01-11,West,Product C,Sports,Alice,66,89.46,0.25,4428.27,7451
+2024-10-24,North,Product B,Home & Garden,Bob,46,492.61,0.09,26806.845,2934
+2023-08-09,West,Product C,Clothing,Henry,86,47.24,0.21,3209.49,2076
+2023-07-11,North,Product A,Clothing,Eva,87,342.61,0.15,25336.01,6200
+2023-01-15,Central,Product A,Electronics,Charlie,30,96.28,0.18,2368.49,2639
+2023-06-06,West,Product D,Electronics,Bob,69,361.19,0.05,23676.0,7385
+2023-04-17,East,Product E,Home & Garden,Alice,9,355.94,0.22,2498.7,9222
+2024-08-09,North,Product C,Home & Garden,Bob,85,124.76,0.06,9968.32,8996
+2024-09-14,North,Product E,Books,Charlie,11,142.12,0.03,1516.42,1703
+2024-07-08,West,Product D,Electronics,Alice,69,330.84,0.16,19175.49,6480
+2023-09-07,East,Product A,Books,Diana,99,201.14,0.21,15731.16,9424
+2023-10-19,East,Product E,Sports,Alice,91,105.33,0.02,12211.329,8777
+2023-09-24,Central,Product E,Books,Diana,66,368.52,0.02,23835.87,6362
+2023-01-21,East,Product A,Clothing,Alice,88,85.53,0.24,5720.25,1950
+2024-11-23,East,Product C,Books,Henry,31,429.27,0.24,13147.68,9250
+2023-06-12,East,Product A,Home & Garden,Grace,33,262.19,0.07,8046.61,3818
+2024-12-31,South,Product E,Sports,Charlie,39,61.79,0.18,2568.852,4600
+2023-07-05,Central,Product C,Clothing,Charlie,94,350.1,0.13,28631.18,9493
+2023-10-31,North,Product C,Books,Alice,46,264.39,0.19,12806.521,8845
+2024-10-13,West,Product A,Sports,Grace,37,156.05,0.26,5554.445,3944
+2023-05-30,North,Product E,Sports,Bob,92,217.04,0.02,19568.33,7255
+2024-03-05,Central,Product D,Clothing,Charlie,60,156.19,0.23,7215.98,8580
+2023-10-26,West,Product E,Books,Henry,31,138.88,0.15,4757.3369999999995,9508
+2023-02-27,Central,Product B,Sports,Diana,11,90.17,0.17,823.25,6264
+2023-05-23,East,Product D,Sports,Diana,87,187.76,0.2,13068.1,8518
+2024-04-19,West,Product C,Electronics,Eva,2,132.98,0.28,191.49,9122
+2023-07-08,East,Product D,Sports,Frank,27,344.88,0.02,9125.52,2178
+2023-03-13,North,Product C,Electronics,Grace,99,345.1,0.01,33823.25,4855
+2024-11-06,North,Product C,Books,Frank,2,255.9,0.05,632.073,9523
+2024-01-17,West,Product D,Books,Frank,21,391.19,0.3,5750.49,7037
+2023-04-05,West,Product C,Books,Diana,58,422.26,0.21,19347.95,1527
+2024-01-17,Central,Product C,Home & Garden,Henry,5,294.09,0.18,1205.77,3059
+2024-02-20,Central,Product B,Books,Henry,52,313.28,0.01,16127.65,1211
+2023-07-16,East,Product E,Sports,Eva,45,148.61,0.26,4948.71,2714
+2023-11-25,West,Product E,Clothing,Frank,85,448.49,0.24,37664.185000000005,3688
+2023-05-18,North,Product B,Electronics,Frank,93,21.86,0.2,1626.38,4266
+2023-04-10,Central,Product D,Home & Garden,Alice,20,180.82,0.1,3254.76,6149
+2024-08-29,Central,Product A,Books,Alice,61,363.68,0.02,21740.79,2332
+2024-05-09,North,Product A,Books,Alice,38,49.24,0.17,1553.03,7820
+2023-12-06,Central,Product A,Clothing,Bob,20,99.75,0.22,2022.93,6891
+2023-05-02,East,Product B,Clothing,Frank,25,298.75,0.03,7244.69,5686
+2024-04-01,West,Product B,Home & Garden,Henry,2,284.4,0.19,460.73,5091
+2024-07-19,North,Product C,Electronics,Henry,32,372.07,0.09,10834.68,1443
+2023-04-22,West,Product A,Books,Bob,26,408.18,0.23,8171.76,1926
+2024-01-15,Central,Product D,Home & Garden,Henry,70,73.0,0.16,4292.4,7246
+2024-03-18,Central,Product D,Sports,Eva,41,19.01,0.04,748.23,1622
+2023-08-11,North,Product A,Sports,Grace,67,347.92,0.16,19580.94,4037
+2024-12-21,East,Product A,Home & Garden,Diana,97,157.68,0.12,17497.428,1233
+2024-02-08,South,Product A,Books,Frank,1,316.73,0.05,300.89,3691
+2023-05-03,North,Product B,Home & Garden,Henry,51,83.77,0.25,3204.2,8402
+2023-10-10,South,Product B,Books,Diana,5,239.83,0.0,1558.8950000000002,1386
+2024-12-31,South,Product B,Clothing,Henry,13,257.17,0.09,3955.0160000000005,2634
+2024-05-12,East,Product E,Home & Garden,Grace,19,296.69,0.0,5637.11,9110
+2023-05-17,South,Product D,Books,Alice,12,261.45,0.03,3043.28,5133
+2024-01-02,South,Product D,Home & Garden,Frank,48,252.89,0.09,11046.24,6581
+2024-09-27,East,Product C,Home & Garden,Charlie,25,173.04,0.02,4239.48,2967
+2023-01-28,South,Product B,Books,Bob,57,44.88,0.18,2097.69,6568
+2023-12-27,South,Product E,Books,Bob,35,53.86,0.03,2377.1150000000002,8284
+2023-04-21,South,Product E,Electronics,Frank,76,222.55,0.21,13361.9,9432
+2024-10-15,North,Product D,Home & Garden,Grace,94,184.34,0.02,22075.820000000003,6145
+2023-04-17,North,Product B,Sports,Alice,5,262.91,0.02,1288.26,6767
+2023-06-21,North,Product C,Home & Garden,Bob,98,159.37,0.09,14212.62,9753
+2023-03-08,East,Product B,Home & Garden,Alice,22,347.08,0.27,5574.1,2999
+2024-06-27,Central,Product A,Books,Eva,77,433.34,0.19,27027.42,5901
+2024-04-12,South,Product B,Home & Garden,Diana,57,156.44,0.23,6866.15,3779
+2024-02-25,South,Product A,Home & Garden,Grace,47,104.56,0.04,4717.75,7192
+2024-08-03,East,Product A,Sports,Charlie,54,66.93,0.25,2710.66,2677
+2024-01-13,South,Product C,Books,Diana,3,311.96,0.0,935.88,5177
+2023-07-23,North,Product D,Home & Garden,Diana,53,227.49,0.06,11333.55,8211
+2023-12-20,Central,Product B,Clothing,Eva,84,102.13,0.18,9145.123,8873
+2023-08-21,West,Product A,Electronics,Bob,31,330.04,0.11,9105.8,4841
+2023-05-22,South,Product B,Sports,Charlie,69,82.76,0.3,3997.31,8098
+2023-08-21,North,Product D,Home & Garden,Bob,88,281.61,0.01,24533.86,7416
+2024-04-19,West,Product D,Clothing,Frank,33,268.3,0.3,6197.73,5885
+2024-05-19,Central,Product E,Home & Garden,Diana,72,369.77,0.19,21564.99,1594
+2024-03-01,West,Product D,Home & Garden,Frank,88,37.0,0.17,2702.48,3612
+2023-06-18,North,Product C,Books,Alice,50,445.06,0.02,21807.94,7359
+2024-09-03,West,Product A,Books,Diana,84,354.47,0.08,27393.44,2496
+2023-12-06,East,Product E,Books,Bob,16,115.9,0.28,1735.7210000000002,4555
+2023-12-27,West,Product C,Clothing,Diana,76,99.87,0.11,8781.773000000001,5861
+2024-02-07,South,Product B,Home & Garden,Alice,77,221.51,0.2,13645.02,5766
+2024-09-03,South,Product A,Electronics,Eva,39,410.61,0.3,11209.65,4358
+2023-10-24,East,Product D,Sports,Frank,89,423.05,0.08,45031.129,1914
+2024-07-02,North,Product A,Books,Henry,46,265.02,0.17,10118.46,2844
+2024-09-20,South,Product B,Books,Frank,96,431.8,0.21,32747.71,2995
+2023-08-10,Central,Product E,Home & Garden,Bob,88,12.67,0.05,1059.21,8625
+2023-11-25,South,Product E,Home & Garden,Diana,47,27.24,0.04,1597.791,1094
+2024-10-01,South,Product E,Clothing,Bob,44,456.79,0.14,22470.409,9684
+2024-04-05,North,Product D,Clothing,Eva,9,389.91,0.12,3088.09,4069
+2023-03-31,West,Product C,Books,Diana,87,230.85,0.21,15866.32,1149
+2024-12-19,South,Product C,Home & Garden,Henry,50,379.27,0.02,24159.499,2046
+2023-11-17,East,Product A,Electronics,Diana,77,478.26,0.29,33990.411,3803
+2024-09-23,West,Product D,Sports,Henry,60,388.32,0.0,23299.2,6334
+2023-12-02,Central,Product E,Home & Garden,Bob,96,422.76,0.18,43263.570999999996,9590
+2024-12-02,North,Product E,Home & Garden,Bob,15,382.7,0.17,6194.006,5476
+2023-01-08,Central,Product B,Clothing,Alice,36,92.42,0.04,3194.04,8276
+2023-06-18,West,Product B,Sports,Grace,63,418.45,0.05,25044.23,1551
+2023-10-17,West,Product E,Books,Grace,69,105.6,0.24,7198.958,9486
+2024-01-25,West,Product E,Home & Garden,Eva,86,447.38,0.27,28086.52,2143
+2023-01-25,Central,Product D,Books,Grace,80,234.74,0.08,17276.86,1455
+2023-06-04,West,Product C,Home & Garden,Alice,41,341.72,0.13,12189.15,9360
+2023-12-05,Central,Product B,Books,Frank,74,253.65,0.11,21717.007,2946
+2024-09-08,West,Product C,Sports,Henry,24,56.06,0.02,1318.53,7115
+2024-07-15,East,Product D,Clothing,Diana,82,152.45,0.2,10000.72,8310
+2023-09-18,West,Product E,Sports,Bob,49,492.03,0.25,18082.1,7180
+2023-10-30,Central,Product C,Electronics,Diana,18,480.75,0.09,10237.084,6817
+2023-09-08,South,Product E,Clothing,Diana,7,167.04,0.3,818.5,6380
+2024-04-05,West,Product E,Sports,Charlie,4,498.19,0.02,1952.9,7374
+2023-10-10,South,Product A,Electronics,Frank,90,424.32,0.2,39716.352,9445
+2024-02-07,East,Product C,Home & Garden,Charlie,69,309.37,0.13,18571.48,9070
+2024-11-13,North,Product C,Home & Garden,Grace,60,29.66,0.13,2012.7250000000001,2320
+2023-03-11,East,Product E,Books,Diana,55,451.71,0.14,21365.88,8123
+2024-01-02,West,Product D,Clothing,Henry,16,283.14,0.08,4167.82,7153
+2024-03-11,South,Product A,Home & Garden,Bob,99,435.55,0.21,34064.37,7589
+2023-09-04,South,Product E,Clothing,Henry,90,418.87,0.22,29404.67,4607
+2023-02-18,Central,Product B,Home & Garden,Diana,82,418.17,0.08,31546.74,1400
+2023-02-06,South,Product B,Books,Frank,29,352.11,0.25,7658.39,7042
+2023-09-09,Central,Product A,Sports,Henry,23,152.79,0.1,3162.75,1362
+2023-11-10,North,Product D,Books,Charlie,14,174.72,0.22,2480.322,4851
+2024-07-04,West,Product E,Electronics,Bob,79,161.15,0.04,12221.62,4412
+2024-02-28,Central,Product C,Home & Garden,Diana,49,19.82,0.05,922.62,1084
+2024-02-12,North,Product A,Electronics,Eva,33,295.46,0.09,8872.66,2824
+2024-01-19,South,Product D,Electronics,Frank,25,352.43,0.18,7224.82,9499
+2023-05-10,South,Product C,Clothing,Frank,21,428.39,0.19,7286.91,9822
+2023-01-05,North,Product B,Home & Garden,Eva,17,78.68,0.12,1177.05,5775
+2023-06-27,South,Product B,Electronics,Henry,23,276.65,0.02,6235.69,8868
+2023-10-23,North,Product C,Sports,Diana,57,13.92,0.11,918.008,8619
+2023-03-19,Central,Product A,Electronics,Frank,81,56.6,0.21,3621.83,8418
+2023-09-25,Central,Product B,Sports,Bob,58,36.56,0.2,1696.38,3371
+2023-07-08,North,Product E,Clothing,Diana,14,365.48,0.05,4860.88,8068
+2024-09-28,Central,Product C,Electronics,Diana,93,49.72,0.0,4623.96,4300
+2024-08-11,Central,Product C,Books,Charlie,20,361.06,0.23,5560.32,6821
+2024-07-18,Central,Product B,Clothing,Frank,30,132.32,0.03,3850.51,8803
+2023-10-01,East,Product A,Sports,Frank,19,440.08,0.02,10652.577000000001,8464
+2023-07-19,West,Product E,Clothing,Eva,53,408.44,0.0,21647.32,1726
+2024-03-17,South,Product A,Electronics,Charlie,56,479.34,0.13,23353.44,8121
+2024-02-25,East,Product D,Home & Garden,Henry,77,443.04,0.15,28996.97,5312
+2024-01-01,Central,Product D,Home & Garden,Grace,82,467.33,0.19,31040.06,9000
+2023-06-29,North,Product B,Sports,Henry,23,430.78,0.09,9016.23,5543
+2024-02-20,Central,Product B,Sports,Henry,62,349.76,0.21,17131.24,9014
+2024-05-12,West,Product B,Home & Garden,Charlie,33,93.43,0.05,2929.03,1318
+2023-10-09,Central,Product D,Sports,Frank,18,143.14,0.25,2512.1070000000004,4475
+2023-12-03,North,Product A,Clothing,Diana,73,114.24,0.17,8998.34,6153
+2023-06-24,West,Product A,Books,Charlie,33,305.76,0.18,8273.87,5134
+2023-01-05,Central,Product B,Books,Eva,32,256.77,0.06,7723.64,2602
+2023-01-21,West,Product E,Clothing,Charlie,61,434.87,0.02,25996.53,3256
+2024-04-04,South,Product A,Books,Eva,54,476.81,0.14,22143.06,8319
+2024-07-29,South,Product D,Electronics,Henry,17,208.38,0.18,2904.82,8532
+2024-10-07,Central,Product C,Clothing,Grace,19,258.11,0.03,6184.061000000001,8366
+2024-08-13,West,Product C,Sports,Charlie,91,486.04,0.29,31403.04,3648
+2023-12-01,North,Product C,Clothing,Eva,70,145.36,0.29,9391.707,7903
+2024-09-09,Central,Product E,Home & Garden,Charlie,99,398.27,0.16,33120.13,2858
+2024-06-22,South,Product B,Sports,Grace,34,120.37,0.29,2905.73,2102
+2023-11-01,South,Product D,Home & Garden,Henry,84,343.92,0.05,35678.266,3481
+2023-08-04,Central,Product E,Sports,Charlie,25,134.27,0.01,3323.18,2820
+2023-06-20,West,Product D,Books,Bob,68,443.03,0.01,29824.78,4158
+2024-01-23,South,Product D,Clothing,Eva,74,285.12,0.18,17301.08,4684
+2023-02-19,West,Product B,Electronics,Grace,74,101.11,0.02,7332.5,8411
+2024-09-13,South,Product C,Sports,Eva,88,119.94,0.29,7493.85,4651
+2024-09-07,South,Product B,Sports,Eva,85,251.99,0.04,20562.38,8707
+2023-09-08,East,Product E,Home & Garden,Alice,11,481.18,0.09,4816.61,9461
+2024-05-10,South,Product E,Books,Grace,91,387.12,0.25,26420.94,9107
+2024-02-21,North,Product E,Home & Garden,Charlie,16,249.27,0.07,3709.14,7881
+2024-01-02,Central,Product B,Home & Garden,Eva,90,175.48,0.07,14687.68,7220
+2023-08-15,Central,Product D,Books,Frank,61,279.14,0.19,13792.31,5830
+2023-05-16,West,Product D,Electronics,Alice,94,376.7,0.08,32577.02,5979
+2023-11-29,South,Product A,Home & Garden,Bob,80,394.13,0.07,38120.251000000004,8334
+2024-09-20,North,Product E,Home & Garden,Eva,7,169.06,0.08,1088.75,4775
+2024-11-19,West,Product D,Sports,Henry,16,363.37,0.15,6424.379,1648
+2024-05-30,East,Product A,Books,Eva,99,332.32,0.29,23358.77,1016
+2023-04-20,West,Product D,Clothing,Alice,16,479.97,0.25,5759.64,9308
+2024-09-30,West,Product E,Electronics,Charlie,40,466.23,0.09,16970.77,7476
+2024-02-11,South,Product C,Electronics,Frank,12,396.8,0.11,4237.82,6942
+2023-03-05,East,Product E,Books,Henry,35,364.46,0.14,10970.25,2545
+2023-11-17,West,Product B,Sports,Bob,21,144.28,0.29,2796.5730000000003,3693
+2023-10-20,North,Product D,Sports,Henry,50,424.52,0.05,26214.11,8599
+2023-11-28,North,Product D,Books,Eva,43,219.48,0.11,10919.35,5089
+2023-03-07,Central,Product B,Sports,Charlie,17,143.4,0.22,1901.48,7259
+2023-12-01,East,Product B,Electronics,Grace,32,198.24,0.29,5855.213000000001,6058
+2023-05-12,East,Product C,Electronics,Frank,41,419.61,0.05,16343.81,4240
+2024-03-15,Central,Product D,Clothing,Grace,6,82.83,0.07,462.19,5942
+2024-05-04,West,Product D,Books,Frank,88,233.52,0.07,19111.28,4788
+2023-07-06,East,Product C,Home & Garden,Bob,27,251.26,0.01,6716.18,7953
+2023-05-01,North,Product A,Home & Garden,Diana,20,27.95,0.18,458.38,1371
+2024-07-10,North,Product C,Clothing,Frank,25,105.92,0.2,2118.4,8020
+2024-03-07,South,Product E,Clothing,Diana,66,415.1,0.18,22465.21,8120
+2023-07-07,East,Product D,Sports,Grace,9,417.08,0.02,3678.65,6702
+2023-01-08,West,Product B,Clothing,Frank,92,153.28,0.02,13819.72,9347
+2023-05-19,Central,Product E,Clothing,Bob,53,438.7,0.06,21856.03,3661
+2023-01-18,Central,Product D,Home & Garden,Alice,61,388.17,0.09,21547.32,8180
+2023-01-28,West,Product C,Sports,Bob,38,214.77,0.24,6202.56,7651
+2024-10-27,South,Product E,Clothing,Bob,3,376.72,0.05,1395.7450000000001,9656
+2024-10-28,Central,Product D,Clothing,Alice,84,481.05,0.01,52005.35600000001,5878
+2024-11-29,East,Product A,Sports,Alice,70,234.9,0.12,18810.792,5315
+2023-06-04,South,Product A,Books,Charlie,97,126.83,0.12,10826.21,7158
+2024-11-02,East,Product B,Sports,Frank,55,471.49,0.14,28991.924,9308
+2023-07-04,North,Product D,Home & Garden,Grace,1,305.83,0.25,229.37,7474
+2024-06-01,South,Product A,Books,Charlie,70,61.58,0.03,4181.28,2374
+2023-06-17,Central,Product C,Electronics,Alice,45,290.61,0.21,10331.19,8393
+2023-04-05,South,Product D,Sports,Diana,98,255.28,0.1,22515.7,5403
+2023-10-04,South,Product C,Home & Garden,Grace,47,429.24,0.09,23866.167,4546
+2024-12-18,South,Product C,Books,Diana,79,270.04,0.28,19967.844,4977
+2023-11-21,South,Product A,Sports,Bob,26,135.06,0.07,4245.475,4411
+2023-07-25,East,Product D,Clothing,Eva,14,341.07,0.19,3867.73,9988
+2024-08-12,North,Product E,Sports,Bob,54,275.86,0.08,13704.72,4892
+2023-04-28,West,Product A,Electronics,Bob,71,124.19,0.15,7494.87,8324
+2023-07-02,South,Product A,Sports,Eva,46,291.08,0.24,10176.16,9342
+2024-12-03,Central,Product D,Books,Frank,31,412.55,0.26,12303.07,4249
+2024-08-04,South,Product D,Books,Alice,88,24.0,0.25,1584.0,1111
+2023-11-30,Central,Product C,Sports,Diana,59,319.12,0.17,20315.503,1682
+2024-08-13,East,Product D,Books,Bob,95,181.3,0.07,16017.86,2161
+2024-02-23,Central,Product C,Clothing,Eva,29,153.41,0.2,3559.11,8400
+2024-11-05,West,Product A,Sports,Charlie,96,202.37,0.21,19952.062,3379
+2023-03-09,North,Product B,Clothing,Bob,17,177.59,0.0,3019.03,6426
+2023-10-17,Central,Product E,Clothing,Diana,14,417.8,0.13,6615.4400000000005,9352
+2024-07-11,Central,Product A,Home & Garden,Alice,36,144.65,0.25,3905.55,2425
+2023-01-06,North,Product D,Sports,Bob,58,369.24,0.15,18203.53,4661
+2024-05-04,West,Product E,Books,Bob,24,56.09,0.09,1225.01,9469
+2023-02-12,South,Product B,Clothing,Frank,63,476.18,0.26,22199.51,8040
+2023-03-30,Central,Product B,Home & Garden,Henry,91,314.94,0.05,27226.56,5592
+2023-03-02,North,Product C,Sports,Eva,25,356.29,0.06,8372.81,8530
+2024-02-08,East,Product E,Sports,Charlie,59,156.04,0.21,7273.02,4107
+2023-05-10,North,Product C,Electronics,Charlie,32,211.93,0.11,6035.77,1302
+2024-04-29,East,Product A,Electronics,Grace,82,119.65,0.21,7750.93,5533
+2023-07-01,West,Product E,Clothing,Alice,18,466.94,0.05,7984.67,3773
+2023-02-06,South,Product A,Electronics,Grace,37,249.17,0.08,8481.75,8199
+2024-05-17,North,Product C,Clothing,Diana,26,318.92,0.05,7877.32,5281
+2024-05-27,Central,Product E,Books,Alice,9,369.79,0.29,2362.96,5768
+2023-03-11,West,Product C,Clothing,Bob,99,191.84,0.12,16713.1,2000
+2023-02-01,North,Product E,Electronics,Henry,64,362.85,0.1,20900.16,2718
+2023-05-13,Central,Product C,Books,Bob,72,341.24,0.0,24569.28,8169
+2024-10-08,North,Product B,Electronics,Charlie,20,355.77,0.05,8787.519,8361
+2024-04-17,East,Product C,Clothing,Diana,54,249.72,0.13,11731.85,4830
+2024-05-10,North,Product B,Home & Garden,Eva,86,197.64,0.02,16657.1,8154
+2024-05-13,North,Product C,Sports,Diana,83,118.82,0.15,8382.75,6020
+2023-09-01,North,Product E,Electronics,Bob,30,414.07,0.14,10683.01,3882
+2024-12-01,West,Product E,Clothing,Eva,53,308.09,0.23,16345.095,1998
+2024-03-14,North,Product E,Books,Diana,92,227.73,0.2,16760.93,1284
+2024-01-04,Central,Product D,Electronics,Henry,99,472.56,0.13,40701.59,9612
+2023-10-02,East,Product A,Electronics,Henry,63,33.44,0.07,2547.025,3160
+2024-01-11,East,Product E,Sports,Diana,11,426.58,0.22,3660.06,4065
+2024-10-12,North,Product B,Clothing,Eva,31,498.82,0.21,15880.93,2494
+2024-09-11,West,Product E,Home & Garden,Bob,49,444.6,0.05,20696.13,5623
+2023-04-17,West,Product D,Books,Diana,94,407.11,0.27,27935.89,3543
+2023-03-13,Central,Product B,Clothing,Eva,87,193.41,0.02,16490.14,5800
+2024-12-25,North,Product D,Books,Frank,19,123.34,0.02,2985.5670000000005,9913
+2023-07-17,East,Product B,Electronics,Henry,12,370.08,0.06,4174.5,2401
+2024-01-04,West,Product C,Sports,Frank,15,159.24,0.27,1743.68,1445
+2023-01-30,North,Product A,Sports,Bob,31,96.26,0.16,2506.61,5522
+2024-05-27,West,Product A,Home & Garden,Eva,43,395.4,0.24,12921.67,4767
+2023-05-10,West,Product D,Sports,Frank,37,163.15,0.07,5613.99,3551
+2024-04-12,East,Product A,Electronics,Eva,79,458.08,0.15,30760.07,6646
+2023-06-01,South,Product D,Home & Garden,Diana,29,421.91,0.11,10889.5,4888
+2023-11-15,Central,Product D,Clothing,Bob,26,425.34,0.25,10782.368999999999,5816
+2024-03-11,Central,Product D,Sports,Frank,2,388.07,0.01,768.38,3731
+2024-05-14,East,Product A,Home & Garden,Grace,84,441.63,0.07,34500.14,8699
+2024-02-21,West,Product D,Electronics,Diana,15,404.82,0.05,5768.68,3629
+2023-12-08,North,Product A,Books,Henry,4,305.23,0.26,1174.5240000000001,8687
+2024-08-24,West,Product D,Books,Grace,86,154.95,0.14,11460.1,2057
+2024-02-24,East,Product E,Electronics,Grace,50,445.22,0.12,19589.68,7834
+2024-01-12,Central,Product D,Electronics,Alice,38,421.9,0.13,13948.01,9949
+2023-09-25,West,Product B,Books,Alice,23,241.71,0.29,3947.12,2795
+2023-01-05,Central,Product D,Home & Garden,Bob,59,29.15,0.26,1272.69,5849
+2023-09-09,North,Product C,Books,Frank,90,322.89,0.21,22957.48,9215
+2024-03-29,Central,Product D,Electronics,Frank,75,34.79,0.09,2374.42,5150
+2023-08-24,Central,Product B,Sports,Frank,28,463.88,0.05,12339.21,7947
+2024-09-21,South,Product B,Clothing,Eva,66,481.2,0.28,22866.62,7470
+2023-07-04,South,Product A,Sports,Diana,8,102.85,0.13,715.84,8179
+2024-10-27,South,Product E,Sports,Frank,29,341.43,0.08,11842.155,4712
+2023-08-05,Central,Product D,Electronics,Diana,11,55.21,0.14,522.29,6458
+2023-08-14,East,Product A,Books,Bob,18,367.46,0.28,4762.28,6315
+2024-10-21,Central,Product E,Home & Garden,Grace,55,180.17,0.12,11336.298999999999,6381
+2024-04-08,East,Product D,Sports,Frank,50,343.71,0.17,14263.96,4174
+2023-07-18,East,Product C,Books,Bob,14,192.71,0.24,2050.43,7387
+2023-06-12,South,Product D,Home & Garden,Frank,74,81.33,0.13,5236.03,9973
+2024-12-26,West,Product B,Sports,Alice,99,208.99,0.07,25014.222999999998,7767
+2024-12-20,North,Product B,Home & Garden,Charlie,9,65.21,0.3,534.066,1566
+2024-10-22,South,Product C,Books,Bob,99,292.67,0.29,26743.301000000003,5622
+2023-01-15,South,Product A,Clothing,Frank,11,30.07,0.25,248.08,5132
+2024-04-18,West,Product E,Books,Henry,63,268.39,0.21,13357.77,9830
+2023-11-10,North,Product D,Electronics,Charlie,76,444.32,0.09,39947.921,7995
+2024-10-10,Central,Product B,Home & Garden,Bob,67,420.56,0.27,26740.467,5167
+2023-10-08,Central,Product A,Clothing,Henry,53,442.56,0.08,28052.999,3670
+2024-11-11,South,Product C,Home & Garden,Henry,39,461.8,0.24,17794.075,9296
+2024-01-08,North,Product B,Home & Garden,Eva,78,61.22,0.28,3438.12,2682
+2024-11-03,South,Product C,Sports,Henry,56,73.09,0.18,4363.177,9490
+2024-02-22,East,Product D,Electronics,Frank,28,282.93,0.24,6020.75,1770
+2024-09-20,South,Product E,Home & Garden,Eva,75,448.05,0.24,25538.85,4854
+2023-05-15,South,Product B,Books,Alice,39,487.43,0.06,17869.18,4118
+2024-05-18,Central,Product B,Books,Frank,25,32.67,0.2,653.4,3132
+2024-11-24,Central,Product D,Sports,Grace,21,184.33,0.03,4881.240000000001,8225
+2024-04-04,Central,Product A,Electronics,Henry,10,114.32,0.15,971.72,1990
+2023-03-15,East,Product E,Electronics,Alice,43,380.42,0.05,15540.16,1710
+2024-02-03,Central,Product B,Books,Charlie,15,323.69,0.12,4272.71,5304
+2024-06-11,North,Product E,Clothing,Bob,83,68.75,0.25,4279.69,6367
+2024-02-19,West,Product B,Sports,Henry,48,246.93,0.3,8296.85,1038
+2023-09-16,North,Product E,Sports,Diana,86,345.87,0.1,26770.34,2275
+2023-01-16,North,Product C,Books,Alice,21,391.71,0.16,6909.76,8069
+2023-01-27,Central,Product B,Books,Diana,60,19.83,0.15,1011.33,5857
+2024-05-25,West,Product E,Clothing,Henry,96,446.33,0.29,30421.85,2436
+2023-12-26,West,Product A,Clothing,Diana,50,288.95,0.14,16152.305,3099
+2024-02-11,West,Product C,Electronics,Henry,23,407.84,0.21,7410.45,9565
+2024-04-20,East,Product C,Sports,Bob,13,405.89,0.28,3799.13,8693
+2024-01-28,Central,Product A,Sports,Charlie,69,103.03,0.11,6327.07,5251
+2024-05-08,West,Product E,Books,Bob,4,63.98,0.27,186.82,5025
+2023-07-14,East,Product D,Electronics,Frank,92,363.43,0.28,24073.6,7212
+2023-11-19,South,Product A,Sports,Alice,78,86.65,0.28,6326.138000000001,4234
+2024-08-27,South,Product E,Electronics,Diana,72,426.47,0.08,28249.37,8662
+2023-12-12,East,Product A,Electronics,Bob,9,365.83,0.12,3766.581,8550
+2024-06-24,East,Product A,Books,Henry,35,422.49,0.26,10942.49,4123
+2023-06-07,Central,Product B,Electronics,Bob,21,156.52,0.11,2925.36,1653
+2023-09-05,Central,Product E,Clothing,Bob,58,165.13,0.18,7853.58,5158
+2023-07-18,South,Product D,Clothing,Alice,18,338.9,0.04,5856.19,9700
+2024-01-23,West,Product B,Home & Garden,Charlie,97,25.41,0.02,2415.47,6543
+2023-08-09,South,Product A,Books,Grace,72,365.98,0.12,23188.49,3197
+2024-03-07,West,Product A,Home & Garden,Bob,81,419.53,0.17,28205.0,4911
+2024-12-29,West,Product A,Clothing,Alice,43,213.43,0.12,10499.047,6235
+2024-09-09,Central,Product E,Home & Garden,Diana,95,384.79,0.17,30340.69,5799
+2023-04-08,North,Product E,Books,Henry,98,95.56,0.15,7960.15,9707
+2024-10-16,North,Product B,Books,Frank,6,167.91,0.21,1034.657,6360
+2023-10-13,East,Product D,Electronics,Grace,86,487.41,0.19,44138.874,9221
+2024-08-06,Central,Product B,Sports,Eva,78,493.3,0.13,33475.34,1325
+2023-02-15,West,Product C,Electronics,Grace,67,261.18,0.13,15224.18,4766
+2024-09-12,North,Product A,Books,Henry,12,467.79,0.04,5388.94,5111
+2023-05-17,West,Product A,Clothing,Grace,12,266.14,0.15,2714.63,9302
+2024-12-26,North,Product A,Clothing,Henry,66,152.88,0.18,10756.031,8015
+2023-12-13,North,Product B,Electronics,Alice,2,140.78,0.14,314.782,7856
+2024-12-21,North,Product B,Books,Eva,15,465.46,0.1,8168.823,1106
+2024-02-17,Central,Product A,Clothing,Bob,23,94.5,0.22,1695.33,3426
+2024-04-25,South,Product B,Books,Bob,29,294.02,0.02,8356.05,5378
+2023-10-04,West,Product E,Clothing,Grace,81,282.21,0.27,21693.204,5364
+2024-03-27,Central,Product E,Books,Alice,96,372.41,0.01,35393.85,3531
+2024-12-13,Central,Product B,Home & Garden,Eva,7,254.63,0.29,1645.163,7810
+2023-03-08,Central,Product A,Books,Bob,94,143.42,0.14,11594.07,6316
+2024-12-31,Central,Product B,Books,Diana,28,93.0,0.12,2978.976,6362
+2023-12-15,Central,Product B,Electronics,Charlie,14,314.2,0.08,5260.97,5693
+2024-07-08,East,Product B,Home & Garden,Charlie,44,362.31,0.0,15941.64,9990
+2024-04-20,West,Product C,Sports,Bob,30,289.07,0.08,7978.33,6268
+2023-03-19,Central,Product E,Electronics,Eva,81,371.79,0.03,29211.54,3011
+2023-12-05,West,Product D,Sports,Frank,32,79.35,0.2,2640.768,1425
+2024-03-21,East,Product D,Clothing,Bob,70,442.41,0.1,27871.83,4044
+2023-11-21,East,Product C,Sports,Frank,88,295.37,0.23,26018.551000000003,7229
+2023-06-11,West,Product B,Books,Frank,6,72.15,0.06,406.93,2239
+2024-03-20,North,Product C,Sports,Henry,27,236.34,0.27,4658.26,7566
+2024-12-17,South,Product C,Electronics,Henry,82,423.95,0.16,37962.184,4391
+2024-09-07,North,Product A,Electronics,Eva,88,449.81,0.03,38395.78,5213
+2024-09-12,North,Product E,Sports,Frank,24,139.68,0.12,2950.04,4997
+2023-05-27,North,Product D,Electronics,Diana,34,358.52,0.06,11458.3,4006
+2024-01-20,Central,Product B,Electronics,Eva,40,58.99,0.06,2218.02,8025
+2023-10-31,East,Product D,Sports,Bob,47,26.44,0.15,1373.164,4039
+2024-11-25,North,Product D,Home & Garden,Grace,79,284.6,0.2,23382.736,7558
+2023-01-31,East,Product E,Home & Garden,Diana,75,350.47,0.27,19188.23,9790
+2023-02-18,West,Product D,Clothing,Alice,86,399.94,0.15,29235.61,2184
+2023-09-27,South,Product D,Electronics,Charlie,24,176.71,0.29,3011.14,3584
+2023-01-15,West,Product C,Sports,Bob,65,13.2,0.28,617.76,9102
+2023-10-26,West,Product E,Electronics,Bob,18,244.96,0.26,4241.731,8116
+2023-07-23,Central,Product A,Books,Bob,44,17.77,0.15,664.6,5383
+2024-10-23,South,Product B,Electronics,Diana,76,55.07,0.04,5223.283,4936
+2023-11-13,West,Product D,Electronics,Alice,57,170.08,0.07,11720.722000000002,2699
+2023-03-28,West,Product B,Home & Garden,Grace,28,224.21,0.19,5085.08,5507
+2024-08-30,South,Product A,Sports,Eva,71,146.94,0.13,9076.48,1135
+2024-09-07,South,Product B,Electronics,Henry,23,295.11,0.04,6516.03,3025
+2024-04-28,West,Product A,Home & Garden,Alice,85,37.12,0.14,2713.47,4535
+2023-04-07,South,Product C,Clothing,Diana,34,80.84,0.01,2721.07,5854
+2024-07-26,West,Product D,Home & Garden,Bob,11,350.68,0.22,3008.83,6367
+2024-01-19,West,Product A,Home & Garden,Charlie,86,79.65,0.02,6712.9,3890
+2024-04-17,Central,Product B,Home & Garden,Bob,35,323.49,0.19,9170.94,3757
+2024-05-25,North,Product D,Electronics,Eva,93,36.8,0.24,2601.02,4773
+2023-03-11,West,Product C,Electronics,Frank,42,209.62,0.04,8451.88,9572
+2024-10-09,East,Product D,Clothing,Charlie,28,96.93,0.16,2963.727,7652
+2023-02-22,North,Product A,Books,Bob,82,63.72,0.23,4023.28,2528
+2024-10-26,North,Product C,Books,Grace,78,287.85,0.08,26852.956,5571
+2024-11-06,North,Product B,Books,Charlie,82,464.88,0.05,47078.395000000004,6049
+2024-02-05,Central,Product C,Clothing,Frank,92,36.85,0.1,3051.18,1848
+2024-08-18,West,Product C,Books,Henry,24,216.56,0.17,4313.88,5127
+2024-04-29,Central,Product E,Books,Alice,8,356.69,0.17,2368.42,8351
+2024-04-24,West,Product C,Home & Garden,Diana,53,236.72,0.04,12044.31,6866
+2024-07-30,Central,Product C,Electronics,Henry,72,405.18,0.14,25088.75,6869
+2023-02-06,Central,Product D,Electronics,Bob,4,98.03,0.08,360.75,3121
+2023-08-29,East,Product B,Home & Garden,Eva,91,480.2,0.25,32773.65,5681
+2023-02-15,Central,Product D,Home & Garden,Alice,5,198.73,0.09,904.22,1472
+2023-03-20,South,Product D,Home & Garden,Henry,97,177.37,0.25,12903.67,2787
+2024-10-20,East,Product A,Electronics,Bob,49,438.56,0.13,24304.553000000004,1113
+2023-06-26,Central,Product D,Books,Alice,98,286.29,0.22,21884.01,7473
+2023-10-19,North,Product E,Home & Garden,Henry,30,263.06,0.15,8720.439,9530
+2024-10-13,South,Product E,Clothing,Eva,72,366.22,0.19,27765.335000000003,3285
+2023-11-29,South,Product A,Home & Garden,Bob,63,294.12,0.12,21197.813000000002,2196
+2024-02-27,South,Product B,Sports,Frank,47,89.63,0.23,3243.71,1078
+2023-01-25,East,Product B,Home & Garden,Frank,26,340.36,0.13,7698.94,5559
+2024-12-23,Central,Product D,Electronics,Eva,57,75.4,0.14,4804.943,7017
+2023-10-27,Central,Product D,Home & Garden,Charlie,37,404.87,0.16,16358.368000000002,3652
+2024-03-19,North,Product D,Sports,Eva,98,494.97,0.25,36380.3,5318
+2024-02-06,North,Product B,Clothing,Charlie,7,194.92,0.2,1091.55,6385
+2023-10-21,South,Product C,Books,Bob,40,227.93,0.1,10667.124,8054
+2024-11-25,North,Product E,Home & Garden,Henry,92,32.75,0.2,3133.5200000000004,1827
+2023-09-13,East,Product C,Sports,Charlie,39,16.73,0.19,528.5,5923
+2024-03-28,Central,Product C,Sports,Bob,62,461.5,0.28,20601.36,4385
+2024-08-30,South,Product B,Clothing,Bob,92,73.03,0.25,5039.07,7056
+2024-04-04,North,Product C,Electronics,Grace,78,228.43,0.19,14432.21,2965
+2023-08-10,East,Product A,Home & Garden,Diana,53,409.52,0.1,19534.1,3427
+2023-10-29,East,Product D,Sports,Bob,4,445.77,0.23,1784.861,3841
+2024-01-17,North,Product A,Clothing,Charlie,82,264.5,0.17,18001.87,9805
+2023-01-07,Central,Product E,Books,Diana,25,286.87,0.3,5020.22,9754
+2023-05-01,North,Product D,Sports,Diana,7,338.15,0.07,2201.36,7563
+2023-12-11,South,Product C,Clothing,Bob,28,481.08,0.02,17161.092,6840
+2024-10-21,North,Product E,Electronics,Eva,69,305.31,0.02,26838.578,8810
+2024-09-14,East,Product D,Electronics,Eva,67,284.14,0.19,15420.28,7064
+2023-06-15,North,Product C,Sports,Frank,95,17.12,0.28,1171.01,8144
+2023-05-09,Central,Product A,Sports,Diana,20,49.67,0.0,993.4,5352
+2024-09-14,West,Product D,Home & Garden,Bob,83,292.81,0.22,18956.52,1184
+2023-12-08,North,Product C,Clothing,Grace,11,468.76,0.2,5362.617,6809
+2024-07-16,Central,Product A,Sports,Eva,67,434.68,0.22,22716.38,5065
+2024-01-19,Central,Product E,Home & Garden,Grace,87,491.46,0.11,38053.75,8181
+2024-09-14,East,Product E,Home & Garden,Bob,7,268.64,0.25,1410.36,9437
+2024-08-18,Central,Product E,Sports,Bob,23,396.09,0.01,9018.97,8504
+2024-03-08,Central,Product E,Electronics,Henry,61,421.8,0.23,19811.95,8426
+2023-01-20,Central,Product B,Clothing,Diana,71,327.54,0.08,21394.91,3087
+2023-05-02,Central,Product D,Clothing,Henry,34,175.99,0.14,5145.95,1600
+2023-06-25,South,Product D,Electronics,Grace,19,240.29,0.25,3424.13,8804
+2023-10-08,South,Product B,Sports,Henry,58,430.38,0.08,29854.604000000003,6537
+2024-07-24,East,Product C,Clothing,Frank,9,156.29,0.06,1322.21,4033
+2023-12-15,North,Product C,Sports,Diana,48,462.63,0.2,23094.487000000005,3056
+2024-04-10,Central,Product E,Sports,Alice,82,122.61,0.16,8445.38,9724
+2024-06-13,North,Product A,Home & Garden,Henry,41,377.26,0.15,13147.51,6084
+2023-06-20,North,Product C,Electronics,Grace,48,318.97,0.08,14085.72,3042
+2023-09-21,East,Product A,Sports,Eva,45,377.3,0.01,16808.72,8960
+2024-07-31,Central,Product D,Books,Eva,25,224.3,0.12,4934.6,1357
+2023-07-25,Central,Product A,Electronics,Eva,78,466.99,0.03,35332.46,1377
+2024-11-01,West,Product D,Clothing,Charlie,25,319.91,0.27,7589.8679999999995,5488
+2024-04-18,North,Product B,Home & Garden,Bob,19,151.26,0.01,2845.2,5797
+2024-01-03,North,Product B,Clothing,Diana,39,322.84,0.13,10953.96,4307
+2023-04-29,South,Product E,Clothing,Eva,79,150.54,0.02,11654.81,3596
+2023-07-15,West,Product C,Electronics,Alice,80,153.88,0.03,11941.09,1783
+2024-03-23,South,Product E,Clothing,Eva,27,205.8,0.2,4445.28,6924
+2023-10-08,South,Product D,Sports,Frank,74,427.69,0.19,33326.46200000001,3379
+2023-06-15,South,Product E,Clothing,Bob,63,255.15,0.01,15913.71,8831
+2023-03-07,East,Product A,Home & Garden,Grace,68,342.66,0.0,23300.88,6267
+2024-04-29,East,Product D,Home & Garden,Bob,19,202.06,0.02,3762.36,8638
+2023-03-01,South,Product B,Books,Henry,28,139.17,0.23,3000.51,3538
+2023-10-02,West,Product C,Home & Garden,Grace,85,477.77,0.18,43290.741,1861
+2024-05-13,North,Product D,Clothing,Grace,78,305.75,0.01,23610.02,2876
+2024-11-26,West,Product D,Home & Garden,Henry,33,467.64,0.15,17052.489999999998,4526
+2023-11-01,Central,Product A,Electronics,Diana,10,109.67,0.21,1126.307,2622
+2024-04-13,East,Product C,Home & Garden,Henry,83,81.98,0.26,5035.21,6518
+2024-10-20,North,Product B,Sports,Charlie,30,429.35,0.28,12056.148,3657
+2023-10-04,North,Product D,Electronics,Grace,22,343.65,0.1,8845.551000000001,2932
+2024-06-12,Central,Product D,Books,Grace,3,101.42,0.04,292.09,9699
+2023-02-08,Central,Product A,Sports,Henry,82,141.99,0.07,10828.16,4478
+2024-09-25,South,Product E,Clothing,Diana,75,402.33,0.23,23234.56,3656
+2024-09-21,East,Product B,Clothing,Eva,48,232.4,0.29,7920.19,1289
+2024-01-15,East,Product C,Clothing,Frank,2,338.56,0.14,582.32,8011
+2023-11-01,West,Product D,Sports,Alice,76,165.99,0.09,14923.831000000002,6858
+2023-05-26,South,Product D,Sports,Diana,54,196.8,0.13,9245.66,8323
+2023-01-22,South,Product B,Sports,Charlie,6,495.45,0.09,2705.16,3829
+2023-03-17,South,Product E,Electronics,Diana,40,131.33,0.08,4832.94,6962
+2023-02-27,South,Product D,Electronics,Bob,93,258.16,0.18,19687.28,5812
+2023-04-02,East,Product B,Clothing,Eva,94,423.76,0.0,39833.44,8264
+2023-10-17,East,Product A,Home & Garden,Eva,2,127.22,0.08,304.30400000000003,9758
+2024-05-08,South,Product E,Clothing,Grace,73,213.45,0.2,12465.48,2473
+2024-03-24,West,Product C,Books,Eva,2,311.39,0.01,616.55,2987
+2024-02-17,North,Product D,Electronics,Eva,93,245.78,0.02,22400.39,8673
+2023-02-04,North,Product B,Sports,Henry,97,235.16,0.09,20757.57,4260
+2023-07-23,West,Product A,Electronics,Eva,74,187.63,0.26,10274.62,8490
+2024-07-25,South,Product C,Sports,Eva,98,297.46,0.23,22446.33,7739
+2024-09-29,East,Product B,Books,Alice,55,315.94,0.01,17202.93,4251
+2023-12-11,North,Product B,Books,Charlie,72,330.11,0.15,26263.549,6905
+2024-08-06,Central,Product C,Electronics,Grace,60,44.48,0.08,2455.3,6300
+2023-09-30,Central,Product A,Sports,Henry,97,319.21,0.19,25080.33,6054
+2023-12-09,West,Product A,Books,Eva,6,477.09,0.22,2902.6140000000005,2716
+2023-06-10,South,Product E,Clothing,Grace,19,275.08,0.26,3867.62,2310
+2023-08-13,North,Product D,Clothing,Charlie,96,360.48,0.14,29761.23,1617
+2023-10-06,South,Product C,Sports,Henry,27,282.8,0.3,6948.396000000001,5257
+2023-08-04,North,Product C,Electronics,Frank,1,428.82,0.29,304.46,7099
+2024-04-20,West,Product C,Books,Eva,33,465.5,0.26,11367.51,1468
+2024-08-05,West,Product A,Electronics,Grace,40,100.27,0.17,3328.96,6905
+2023-03-21,Central,Product D,Clothing,Diana,32,224.06,0.12,6309.53,2139
+2023-03-20,South,Product E,Books,Henry,69,202.27,0.11,12421.4,9728
+2023-04-20,Central,Product B,Electronics,Henry,17,208.56,0.0,3545.52,1951
+2024-11-11,South,Product B,Home & Garden,Grace,8,71.51,0.07,691.639,9012
+2024-03-08,Central,Product C,Sports,Eva,57,408.67,0.22,18169.47,4006
+2024-04-25,East,Product D,Sports,Bob,42,27.53,0.18,948.13,7075
+2023-02-11,East,Product A,Home & Garden,Alice,98,268.83,0.27,19232.1,8890
+2023-11-04,East,Product D,Clothing,Diana,9,334.32,0.02,3833.31,6952
+2023-09-19,East,Product D,Books,Diana,87,111.66,0.05,9228.7,8077
+2023-05-30,North,Product A,Sports,Bob,35,453.87,0.24,12072.94,2971
+2023-01-22,East,Product C,Home & Garden,Eva,71,420.89,0.11,26596.04,2191
+2024-06-04,West,Product D,Home & Garden,Henry,79,240.83,0.04,18264.55,4920
+2023-05-11,West,Product B,Clothing,Henry,53,211.46,0.3,7845.17,8765
+2023-11-30,North,Product A,Clothing,Alice,54,125.92,0.24,6718.088000000001,7193
+2023-01-06,East,Product E,Electronics,Diana,84,367.7,0.12,27180.38,4046
+2024-04-12,East,Product C,Sports,Alice,25,74.55,0.25,1397.81,1304
+2024-01-07,East,Product A,Electronics,Diana,67,343.32,0.2,18401.95,7339
+2024-01-27,Central,Product E,Home & Garden,Eva,62,422.8,0.24,19922.34,9043
+2024-09-14,South,Product E,Books,Frank,55,121.95,0.24,5097.51,5908
+2024-10-20,Central,Product D,Books,Diana,46,434.55,0.03,25206.506,3804
+2023-08-17,South,Product D,Clothing,Frank,24,26.33,0.19,511.86,4936
+2024-08-06,East,Product D,Books,Diana,98,457.27,0.0,44812.46,1712
+2024-11-03,East,Product A,Books,Henry,46,68.0,0.01,4025.736,7848
+2023-05-13,Central,Product A,Books,Charlie,22,326.42,0.27,5242.31,9366
+2024-01-05,Central,Product C,Home & Garden,Eva,11,132.54,0.16,1224.67,4205
+2024-09-12,South,Product D,Books,Bob,48,419.91,0.22,15721.43,6185
+2023-09-03,West,Product E,Books,Frank,8,261.03,0.25,1566.18,7506
+2023-01-22,South,Product B,Books,Bob,39,76.27,0.28,2141.66,2772
+2024-02-27,Central,Product C,Electronics,Eva,35,289.79,0.26,7505.56,2074
+2024-06-22,Central,Product A,Home & Garden,Grace,49,209.86,0.14,8843.5,6447
+2023-07-24,North,Product C,Clothing,Bob,46,334.11,0.1,13832.15,9783
+2023-11-09,Central,Product C,Electronics,Eva,38,442.13,0.05,20749.157,6264
+2024-04-18,North,Product C,Sports,Henry,8,210.6,0.12,1482.62,8322
+2023-01-20,West,Product C,Home & Garden,Bob,54,152.04,0.11,7307.04,7651
+2023-01-20,South,Product B,Home & Garden,Frank,37,17.11,0.17,525.45,3410
+2024-01-18,South,Product D,Sports,Charlie,91,291.67,0.2,21233.58,7441
+2023-05-18,North,Product E,Sports,Bob,92,207.11,0.29,13528.43,9685
+2024-11-16,South,Product C,Sports,Frank,40,193.58,0.22,7851.61,9737
+2023-01-20,Central,Product C,Clothing,Diana,34,99.64,0.19,2744.09,4956
+2024-12-29,East,Product C,Books,Eva,96,220.73,0.1,24792.391,7553
+2024-12-17,North,Product D,Home & Garden,Alice,79,492.38,0.01,50061.752,7869
+2024-04-10,South,Product A,Books,Grace,17,155.9,0.09,2411.77,8531
+2023-06-03,North,Product A,Books,Henry,33,303.86,0.23,7721.08,4094
+2023-01-29,North,Product B,Sports,Alice,47,390.48,0.06,17251.41,3365
+2023-09-26,East,Product A,Clothing,Henry,52,377.09,0.21,15490.86,7668
+2023-11-26,Central,Product C,Electronics,Eva,80,171.1,0.17,14769.352,6000
+2023-04-12,North,Product C,Clothing,Henry,93,309.32,0.05,27328.42,8920
+2024-07-29,South,Product C,Books,Charlie,9,436.92,0.08,3617.7,4347
+2024-03-24,West,Product B,Clothing,Bob,33,17.57,0.15,492.84,4675
+2024-02-11,North,Product C,Sports,Charlie,60,223.51,0.13,11667.22,1952
+2024-01-04,North,Product A,Electronics,Alice,93,119.89,0.23,8585.32,4300
+2023-09-08,East,Product D,Sports,Grace,77,200.43,0.22,12037.83,4179
+2024-03-24,Central,Product D,Electronics,Frank,21,213.83,0.17,3727.06,4247
+2024-05-12,West,Product E,Books,Grace,58,375.87,0.25,16350.34,5415
+2023-05-10,South,Product A,Electronics,Eva,85,55.97,0.17,3948.68,4357
+2023-06-17,West,Product C,Electronics,Eva,69,261.17,0.29,12794.72,7472
+2023-08-19,South,Product D,Electronics,Charlie,10,286.46,0.07,2664.08,6996
+2023-11-01,Central,Product A,Clothing,Frank,6,252.14,0.21,1553.6820000000002,5848
+2023-02-27,South,Product D,Clothing,Charlie,13,368.62,0.11,4264.93,6475
+2024-05-06,East,Product C,Books,Bob,65,198.06,0.08,11843.99,2037
+2024-07-21,East,Product D,Electronics,Diana,20,473.03,0.05,8987.57,9262
+2023-05-16,East,Product E,Home & Garden,Frank,57,246.08,0.17,11642.04,8008
+2023-05-09,East,Product E,Books,Diana,46,289.89,0.06,12534.84,6931
+2024-05-20,West,Product D,Electronics,Grace,8,414.51,0.06,3117.12,6642
+2024-10-28,Central,Product A,Electronics,Bob,10,144.87,0.3,1318.317,1105
+2023-10-09,South,Product A,Clothing,Henry,73,46.85,0.24,3379.0119999999997,1769
+2023-05-19,South,Product A,Books,Henry,67,356.81,0.22,18646.89,3940
+2023-05-20,East,Product D,Electronics,Diana,11,246.68,0.24,2062.24,8899
+2023-04-03,East,Product A,Electronics,Alice,12,449.29,0.29,3827.95,7614
+2023-08-24,North,Product C,Books,Grace,10,491.51,0.17,4079.53,6805
+2024-10-18,Central,Product E,Home & Garden,Diana,25,205.56,0.07,6213.051,5355
+2024-03-05,West,Product C,Books,Bob,49,213.57,0.26,7744.05,1933
+2024-11-14,South,Product A,Books,Diana,49,209.9,0.22,10429.094000000001,9766
+2023-04-01,North,Product C,Home & Garden,Eva,89,169.03,0.12,13238.43,6660
+2023-02-18,North,Product A,Books,Charlie,11,393.03,0.14,3718.06,6906
+2024-04-26,South,Product D,Electronics,Alice,62,381.91,0.12,20837.01,7050
+2024-01-19,West,Product C,Books,Eva,36,244.54,0.28,6338.48,9261
+2023-12-13,North,Product D,Home & Garden,Eva,39,31.88,0.1,1454.6870000000001,5474
+2023-08-23,North,Product D,Sports,Bob,53,161.68,0.29,6084.02,1254
+2023-03-10,Central,Product B,Books,Charlie,90,153.23,0.27,10067.21,8087
+2024-05-09,West,Product A,Clothing,Charlie,78,407.43,0.19,25741.43,5787
+2023-11-29,North,Product E,Electronics,Frank,56,52.91,0.17,3197.0380000000005,8862
+2023-08-18,West,Product A,Electronics,Grace,1,404.78,0.11,360.25,7356
+2024-07-07,South,Product E,Clothing,Alice,56,337.9,0.01,18733.18,4742
+2023-07-15,East,Product A,Clothing,Grace,4,368.9,0.04,1416.58,3035
+2023-11-21,North,Product D,Books,Bob,30,221.78,0.23,6660.0560000000005,2967
+2023-03-27,Central,Product C,Clothing,Alice,12,343.07,0.14,3540.48,9291
+2024-02-10,South,Product C,Sports,Frank,35,308.42,0.04,10362.91,2852
+2023-03-13,West,Product B,Home & Garden,Diana,77,386.8,0.08,27400.91,4183
+2023-10-24,South,Product E,Clothing,Eva,52,228.92,0.28,11141.988000000001,7618
+2024-11-25,North,Product E,Clothing,Alice,31,241.68,0.11,8668.335000000001,9303
+2023-12-14,West,Product E,Sports,Grace,87,325.35,0.27,26861.874,1182
+2023-02-16,East,Product D,Electronics,Eva,68,62.96,0.09,3895.96,7740
+2023-05-03,South,Product E,Electronics,Bob,52,223.76,0.16,9773.84,1164
+2023-07-25,North,Product C,Books,Grace,80,486.26,0.01,38511.79,7958
+2024-03-07,Central,Product D,Sports,Diana,7,28.4,0.16,166.99,3137
+2024-06-06,West,Product A,Home & Garden,Bob,22,164.84,0.19,2937.45,1454
+2024-04-12,South,Product E,Home & Garden,Henry,93,163.91,0.07,14176.58,3285
+2024-01-25,South,Product E,Sports,Diana,75,320.4,0.17,19944.9,8846
+2024-05-06,East,Product A,Home & Garden,Diana,56,61.84,0.19,2805.06,5822
+2024-10-30,East,Product E,Electronics,Eva,97,317.99,0.21,31677.841,1541
+2023-03-30,Central,Product A,Home & Garden,Bob,58,56.57,0.23,2526.42,7033
+2024-12-30,Central,Product D,Home & Garden,Bob,93,56.53,0.09,6219.369000000001,3665
+2023-01-08,North,Product C,Sports,Alice,64,366.81,0.17,19484.95,8149
+2023-04-18,North,Product A,Sports,Grace,12,168.83,0.29,1438.43,6798
+2024-04-22,Central,Product B,Home & Garden,Henry,7,488.94,0.27,2498.48,6785
+2024-08-24,Central,Product A,Clothing,Bob,55,28.3,0.29,1105.12,5614
+2024-01-06,West,Product E,Sports,Alice,62,228.1,0.12,12445.14,5292
+2023-07-16,East,Product D,Books,Henry,90,65.44,0.24,4476.1,7189
+2024-07-04,North,Product D,Books,Charlie,73,182.18,0.19,10772.3,7673
+2024-04-26,East,Product A,Electronics,Charlie,98,499.13,0.02,47936.45,2688
+2024-03-26,East,Product C,Home & Garden,Henry,77,445.53,0.25,25729.36,6095
+2024-04-18,Central,Product B,Clothing,Charlie,55,33.68,0.2,1481.92,8583
+2023-10-04,West,Product D,Electronics,Frank,36,286.0,0.06,12581.712,8824
+2024-06-21,South,Product E,Home & Garden,Bob,89,327.43,0.02,28558.44,2637
+2023-08-23,West,Product E,Sports,Frank,24,112.67,0.25,2028.06,6966
+2024-07-11,West,Product C,Books,Grace,44,81.1,0.02,3497.03,5670
+2024-10-01,East,Product D,Clothing,Bob,17,453.15,0.03,9714.172,6203
+2024-11-21,West,Product A,Books,Alice,2,484.72,0.13,1096.433,6134
+2023-01-29,North,Product E,Sports,Frank,13,496.03,0.04,6190.45,2890
+2023-03-30,East,Product C,Home & Garden,Frank,31,396.98,0.27,8983.66,4205
+2024-02-04,North,Product D,Sports,Grace,93,335.12,0.14,26802.9,9669
+2024-08-24,South,Product D,Sports,Frank,28,179.41,0.17,4169.49,3366
+2024-07-15,East,Product D,Books,Diana,60,93.99,0.28,4060.37,8559
+2023-12-20,South,Product D,Clothing,Alice,27,48.7,0.16,1435.876,3526
+2023-05-21,East,Product D,Sports,Charlie,15,349.72,0.11,4668.76,8807
+2024-05-27,Central,Product E,Books,Alice,95,394.51,0.24,28483.62,1366
+2024-04-29,West,Product C,Clothing,Diana,79,414.96,0.13,28520.2,7521
+2023-12-01,Central,Product D,Home & Garden,Grace,33,457.74,0.1,17673.344,7606
+2024-09-06,South,Product B,Home & Garden,Grace,20,441.17,0.22,6882.25,1012
+2023-06-09,West,Product B,Electronics,Bob,42,499.87,0.24,15955.85,9727
+2023-01-31,East,Product C,Books,Alice,12,129.59,0.24,1181.86,4239
+2023-06-14,West,Product A,Clothing,Henry,73,384.02,0.29,19903.76,3317
+2023-10-18,North,Product A,Sports,Henry,23,297.37,0.24,6757.439,5042
+2023-07-16,West,Product A,Home & Garden,Grace,72,138.01,0.23,7651.27,8485
+2024-06-04,North,Product B,Clothing,Frank,96,491.13,0.26,34889.88,1375
+2024-09-03,West,Product A,Books,Grace,14,449.97,0.0,6299.58,1256
+2023-07-10,North,Product E,Electronics,Grace,91,72.97,0.11,5909.84,1449
+2024-11-20,South,Product D,Home & Garden,Grace,25,22.82,0.22,578.4870000000001,4212
+2023-03-02,Central,Product B,Clothing,Grace,77,347.28,0.18,21927.26,7175
+2024-03-06,East,Product C,Clothing,Henry,85,306.02,0.05,24711.11,6943
+2023-03-31,West,Product C,Clothing,Henry,31,468.55,0.09,13217.8,9026
+2023-07-30,Central,Product D,Books,Charlie,54,124.66,0.1,6058.48,8446
+2024-11-22,East,Product B,Books,Charlie,5,51.35,0.17,277.03000000000003,2308
+2023-11-18,East,Product A,Books,Bob,13,137.02,0.25,1736.7350000000001,9339
+2024-12-25,North,Product A,Sports,Grace,28,19.27,0.28,505.02400000000006,5016
+2023-11-16,South,Product E,Clothing,Henry,43,27.59,0.23,1187.55,4940
+2023-05-17,South,Product E,Home & Garden,Alice,89,458.28,0.25,30590.19,7713
+2023-03-08,Central,Product A,Books,Diana,99,182.49,0.14,15537.2,5071
+2023-02-24,South,Product C,Books,Bob,47,211.3,0.12,8739.37,9107
+2023-09-21,West,Product C,Clothing,Henry,71,19.0,0.12,1187.12,6912
+2023-06-01,South,Product E,Books,Alice,38,142.56,0.18,4442.17,1442
+2024-01-08,Central,Product D,Sports,Grace,96,404.32,0.04,37262.13,3944
+2023-12-27,South,Product A,Sports,Eva,67,311.59,0.17,22525.776,4936
+2024-10-31,West,Product E,Books,Grace,62,379.35,0.2,24460.487999999998,1398
+2023-08-19,North,Product E,Clothing,Charlie,39,229.13,0.13,7774.38,3995
+2024-10-09,Central,Product A,Clothing,Diana,37,161.77,0.29,5524.61,7329
+2024-10-07,North,Product A,Clothing,Henry,86,246.58,0.18,22605.466,3216
+2023-10-24,North,Product C,Electronics,Henry,8,168.3,0.07,1627.795,2707
+2023-02-15,North,Product D,Books,Frank,81,421.1,0.14,29333.83,6766
+2024-07-13,East,Product D,Clothing,Diana,52,155.86,0.2,6483.78,6677
+2023-12-01,East,Product A,Sports,Frank,91,333.28,0.1,35484.319,3568
+2023-03-25,North,Product B,Home & Garden,Diana,33,77.12,0.02,2494.06,8638
+2023-07-19,Central,Product E,Home & Garden,Charlie,81,346.56,0.18,23018.52,1160
+2023-04-28,West,Product E,Clothing,Frank,42,457.52,0.28,13835.4,9067
+2023-07-29,West,Product A,Home & Garden,Alice,76,308.21,0.15,19910.37,4904
+2023-04-10,South,Product B,Home & Garden,Frank,27,284.33,0.27,5604.14,4573
+2023-02-19,Central,Product C,Electronics,Bob,8,480.95,0.25,2885.7,2825
+2023-03-26,East,Product A,Sports,Alice,23,317.42,0.04,7008.63,6582
+2024-02-27,North,Product A,Sports,Bob,64,137.18,0.21,6935.82,2176
+2023-04-09,South,Product E,Electronics,Grace,93,153.27,0.13,12401.08,5918
+2024-09-17,West,Product A,Electronics,Diana,20,355.6,0.08,6543.04,5880
+2024-08-29,East,Product A,Home & Garden,Alice,16,370.36,0.21,4681.35,4220
+2024-08-06,East,Product A,Books,Diana,17,158.71,0.22,2104.49,8820
+2024-04-21,North,Product E,Home & Garden,Grace,80,179.22,0.05,13620.72,1130
+2023-02-05,West,Product C,Electronics,Eva,19,495.62,0.27,6874.25,7659
+2023-05-03,Central,Product C,Sports,Henry,8,59.96,0.23,369.35,4562
+2023-02-08,East,Product A,Home & Garden,Diana,38,208.28,0.28,5698.54,2499
+2023-01-22,North,Product E,Books,Grace,38,40.6,0.1,1388.52,8430
+2024-02-28,Central,Product C,Home & Garden,Diana,53,412.33,0.28,15734.51,8705
+2024-03-22,West,Product C,Clothing,Grace,93,55.25,0.11,4573.04,8626
+2023-12-12,East,Product C,Home & Garden,Bob,90,340.26,0.02,39014.209,7679
+2024-10-31,Central,Product E,Electronics,Grace,31,37.68,0.23,1169.246,3788
+2024-04-13,Central,Product E,Sports,Frank,44,339.7,0.21,11807.97,5876
+2024-05-10,Central,Product A,Sports,Eva,60,423.09,0.18,20816.03,4708
+2024-03-08,East,Product D,Electronics,Diana,76,205.42,0.15,13270.13,2769
+2024-03-06,East,Product C,Clothing,Grace,17,265.84,0.01,4474.09,7731
+2024-12-17,South,Product D,Electronics,Grace,79,206.76,0.19,17199.741,4044
+2023-08-01,West,Product E,Home & Garden,Diana,73,157.24,0.13,9986.31,1375
+2023-05-15,North,Product E,Electronics,Henry,39,403.6,0.17,13064.53,7347
+2023-01-12,Central,Product E,Electronics,Eva,42,143.28,0.13,5235.45,4036
+2024-02-08,South,Product D,Clothing,Eva,48,364.24,0.29,12413.3,9852
+2024-11-19,North,Product E,Home & Garden,Grace,12,111.04,0.18,1420.419,7218
+2024-03-14,South,Product A,Books,Alice,96,132.43,0.22,9916.36,1740
+2024-07-24,East,Product E,Books,Bob,89,174.87,0.28,11205.67,9495
+2024-11-01,Central,Product B,Sports,Eva,18,298.69,0.18,5731.258,2085
+2023-04-30,North,Product D,Electronics,Eva,79,232.67,0.0,18380.93,2210
+2024-08-26,North,Product B,Sports,Charlie,96,375.12,0.01,35651.4,9420
+2024-10-02,North,Product E,Clothing,Frank,6,114.65,0.21,706.4720000000001,4119
+2024-11-06,North,Product A,Books,Eva,43,15.23,0.08,783.25,1267
+2024-12-31,North,Product C,Electronics,Bob,35,390.51,0.17,14747.616,3774
+2023-10-09,South,Product E,Clothing,Frank,98,412.61,0.06,49412.519,5349
+2024-07-26,Central,Product A,Clothing,Frank,54,39.15,0.08,1944.97,5965
+2024-12-16,East,Product D,Electronics,Diana,62,309.34,0.15,21192.886,9125
+2024-03-08,East,Product B,Clothing,Diana,69,195.32,0.29,9568.73,4459
+2024-03-15,East,Product B,Electronics,Diana,82,399.01,0.18,26829.43,1989
+2024-06-13,East,Product B,Electronics,Diana,16,438.46,0.28,5051.06,1937
+2023-12-16,South,Product D,Home & Garden,Charlie,8,426.99,0.29,3152.8900000000003,7654
+2024-02-16,West,Product A,Sports,Eva,89,390.83,0.06,32696.84,7989
+2024-06-12,Central,Product D,Clothing,Diana,96,141.84,0.09,12391.14,9631
+2024-08-29,North,Product B,Clothing,Grace,90,407.83,0.23,28262.62,8342
+2024-05-02,West,Product E,Home & Garden,Alice,86,271.4,0.26,17271.9,7023
+2023-09-28,East,Product C,Home & Garden,Diana,31,35.85,0.16,933.53,3358
+2023-08-27,West,Product D,Home & Garden,Eva,10,233.9,0.3,1637.3,4345
+2024-05-01,Central,Product D,Books,Diana,56,471.66,0.0,26412.96,7360
+2024-10-30,North,Product A,Books,Charlie,76,445.05,0.09,40013.558000000005,5816
+2023-10-18,North,Product A,Books,Bob,92,60.11,0.19,5823.219999999999,4743
+2023-06-25,Central,Product D,Electronics,Bob,70,374.62,0.14,22552.12,8159
+2024-03-09,Central,Product B,Clothing,Eva,20,404.84,0.03,7853.9,1518
+2023-07-24,East,Product C,Sports,Grace,5,142.98,0.11,636.26,1268
+2023-10-23,North,Product A,Electronics,Bob,23,241.09,0.01,7136.506,6444
+2024-08-04,West,Product B,Clothing,Henry,9,358.38,0.19,2612.59,6475
+2024-01-25,South,Product E,Clothing,Bob,58,225.13,0.27,9532.0,5185
+2023-04-24,South,Product A,Home & Garden,Alice,59,65.27,0.27,2811.18,6161
+2023-01-24,Central,Product B,Home & Garden,Eva,93,355.88,0.21,26146.5,4865
+2024-03-24,East,Product B,Electronics,Grace,80,456.7,0.14,31420.96,9011
+2023-07-25,South,Product C,Home & Garden,Eva,54,329.72,0.15,15134.15,3335
+2024-11-30,North,Product C,Clothing,Bob,46,389.16,0.04,22340.903000000002,4674
+2023-03-22,Central,Product E,Home & Garden,Bob,22,185.6,0.1,3674.88,5576
+2023-09-28,West,Product B,Books,Bob,64,99.77,0.06,6002.16,1500
+2024-10-26,Central,Product B,Home & Garden,Frank,8,324.96,0.25,2534.688,9083
+2023-12-31,West,Product C,Clothing,Charlie,20,170.61,0.27,3238.183,9294
+2023-01-01,Central,Product A,Electronics,Diana,51,431.44,0.16,18482.89,6543
+2023-02-06,Central,Product A,Sports,Henry,78,70.09,0.22,4264.28,3746
+2023-03-11,Central,Product D,Home & Garden,Charlie,39,222.4,0.04,8326.66,4276
+2024-02-06,West,Product C,Clothing,Eva,37,204.4,0.18,6201.5,4085
+2023-09-07,West,Product D,Sports,Henry,50,469.65,0.21,18551.18,6735
+2023-06-04,Central,Product C,Sports,Alice,34,85.04,0.14,2486.57,8796
+2024-07-13,South,Product E,Books,Diana,75,14.82,0.07,1033.7,7613
+2024-06-27,East,Product B,Sports,Alice,33,126.66,0.26,3093.04,2327
+2024-02-05,East,Product E,Clothing,Grace,31,411.94,0.22,9960.71,8772
+2024-09-07,East,Product C,Clothing,Frank,54,112.57,0.27,4437.51,4746
+2023-03-03,West,Product B,Home & Garden,Eva,44,128.03,0.25,4224.99,6684
+2024-08-27,West,Product A,Home & Garden,Frank,34,73.65,0.3,1752.87,3562
+2024-06-28,South,Product A,Home & Garden,Eva,71,360.56,0.06,24063.77,5163
+2023-08-11,East,Product D,Sports,Alice,62,43.9,0.03,2640.15,4317
+2023-08-24,East,Product C,Sports,Alice,23,172.29,0.1,3566.4,3436
+2024-03-14,Central,Product C,Books,Alice,46,148.42,0.04,6554.23,6769
+2024-11-11,West,Product A,Home & Garden,Eva,56,282.03,0.16,17246.697,9499
+2023-07-23,East,Product E,Electronics,Bob,7,367.9,0.19,2085.99,6918
+2023-02-04,South,Product B,Books,Alice,89,271.11,0.17,20026.9,2089
+2024-06-20,South,Product E,Electronics,Frank,61,466.2,0.08,26163.14,5555
+2024-11-18,East,Product E,Sports,Grace,3,476.21,0.27,1355.7700000000002,3394
+2023-09-18,West,Product A,Books,Diana,38,187.12,0.01,7039.45,7468
+2024-11-03,South,Product A,Books,Eva,84,391.06,0.1,38433.382,5004
+2024-12-27,Central,Product A,Clothing,Henry,34,372.01,0.22,12825.422999999999,1666
+2023-09-30,South,Product D,Sports,Frank,44,447.55,0.23,15162.99,6718
+2023-03-19,North,Product E,Sports,Charlie,30,229.49,0.12,6058.54,6152
+2024-07-21,North,Product C,Books,Grace,17,269.93,0.01,4542.92,3234
+2023-12-26,West,Product B,Sports,Charlie,59,213.73,0.19,13278.408,7335
+2024-10-02,East,Product D,Books,Diana,10,426.68,0.02,5435.898,2236
+2023-07-06,West,Product C,Clothing,Bob,99,122.55,0.03,11768.48,2623
+2024-01-07,West,Product E,Books,Alice,84,127.46,0.2,8565.31,2374
+2024-05-30,West,Product A,Sports,Eva,18,192.58,0.09,3154.46,8275
+2024-06-20,West,Product E,Sports,Frank,45,122.87,0.1,4976.24,7359
+2023-10-22,Central,Product B,Books,Henry,91,284.89,0.15,28647.112000000005,1176
+2024-04-25,Central,Product D,Books,Alice,59,75.9,0.29,3179.45,7704
+2023-06-16,South,Product D,Books,Frank,62,166.89,0.29,7346.5,3928
+2024-05-08,North,Product B,Home & Garden,Eva,59,457.59,0.12,23758.07,9817
+2024-07-09,West,Product C,Sports,Charlie,49,210.52,0.08,9490.24,8617
+2024-12-23,South,Product C,Sports,Alice,63,376.63,0.09,28069.86,8614
+2023-12-31,North,Product D,Home & Garden,Diana,87,65.6,0.08,6825.8060000000005,4715
+2023-04-21,East,Product D,Books,Bob,32,131.31,0.16,3529.61,5274
+2023-04-12,Central,Product A,Clothing,Diana,10,405.6,0.18,3325.92,9586
+2023-07-28,North,Product C,Books,Bob,11,383.87,0.15,3589.18,5971
+2024-12-11,East,Product B,Books,Grace,70,199.22,0.12,15953.535000000002,9389
+2024-03-04,North,Product C,Home & Garden,Frank,62,477.65,0.06,27837.44,1968
+2023-09-07,Central,Product A,Sports,Alice,47,456.22,0.14,18440.41,4155
+2024-08-05,Central,Product D,Books,Alice,34,481.53,0.1,14734.82,5764
+2023-12-11,South,Product D,Sports,Grace,17,219.68,0.16,4078.1390000000006,3504
+2023-08-16,West,Product A,Electronics,Bob,54,106.76,0.2,4612.03,8643
+2023-10-05,North,Product B,Sports,Charlie,76,317.06,0.19,25373.673,7006
+2023-03-15,North,Product D,Clothing,Eva,85,345.54,0.14,25258.97,8962
+2023-03-02,East,Product E,Clothing,Diana,40,71.47,0.17,2372.8,8943
+2024-05-30,Central,Product D,Books,Grace,19,395.38,0.09,6836.12,2269
+2023-04-30,North,Product E,Sports,Henry,67,18.85,0.01,1250.32,2364
+2024-12-04,Central,Product A,Books,Henry,82,246.54,0.19,21287.747000000003,7716
+2024-08-27,North,Product A,Home & Garden,Frank,53,172.2,0.08,8396.47,1923
+2023-02-01,South,Product D,Clothing,Grace,64,372.75,0.2,19084.8,1470
+2024-05-16,West,Product C,Books,Diana,83,163.25,0.22,10568.8,7597
+2024-08-21,North,Product E,Home & Garden,Diana,47,415.14,0.27,14243.45,3954
+2023-12-04,Central,Product B,Books,Frank,6,301.53,0.29,1669.876,2148
+2024-08-23,South,Product D,Sports,Frank,16,399.01,0.0,6384.16,4086
+2024-03-18,North,Product B,Sports,Alice,72,494.78,0.3,24936.91,1629
+2024-07-08,East,Product D,Sports,Diana,18,342.79,0.2,4936.18,8407
+2024-02-11,West,Product C,Sports,Eva,52,492.63,0.19,20749.58,1774
+2023-09-26,North,Product C,Electronics,Henry,48,24.13,0.0,1158.24,9551
+2024-12-05,South,Product C,Home & Garden,Eva,43,175.69,0.26,7267.598,9709
+2024-09-09,East,Product C,Home & Garden,Bob,39,62.85,0.04,2353.1,2343
+2024-06-29,South,Product A,Sports,Grace,49,138.53,0.25,5090.98,8398
+2023-10-05,South,Product A,Electronics,Frank,12,421.06,0.0,6568.536000000001,8197
+2023-01-08,East,Product E,Sports,Alice,10,25.84,0.19,209.3,6016
+2024-01-05,South,Product B,Electronics,Eva,71,264.89,0.13,16362.26,8797
+2024-12-20,East,Product D,Sports,Charlie,55,287.89,0.06,19349.083,3899
+2023-03-04,North,Product D,Clothing,Henry,1,284.96,0.03,276.41,1934
+2023-04-02,East,Product A,Clothing,Alice,49,242.9,0.13,10354.83,2986
+2024-11-30,East,Product D,Books,Alice,36,397.4,0.04,17854.382,5996
+2024-12-12,West,Product A,Sports,Eva,21,75.44,0.15,1750.58,7542
+2023-08-10,East,Product E,Home & Garden,Charlie,37,162.18,0.19,4860.53,6465
+2024-08-05,East,Product B,Books,Bob,24,311.71,0.25,5610.78,7311
+2024-07-21,North,Product E,Clothing,Eva,55,348.57,0.2,15337.08,9568
+2023-09-24,West,Product C,Sports,Charlie,25,208.03,0.02,5096.73,2505
+2024-12-30,Central,Product C,Books,Alice,7,438.93,0.09,3634.7740000000003,6363
+2024-12-02,North,Product C,Sports,Henry,81,213.59,0.09,20466.836,2010
+2024-07-28,North,Product E,Clothing,Charlie,93,207.36,0.27,14077.67,4477
+2023-05-27,Central,Product D,Books,Alice,94,27.74,0.26,1929.59,8741
+2023-03-02,East,Product B,Clothing,Grace,71,280.06,0.11,17696.99,4857
+2024-11-13,South,Product C,Electronics,Eva,97,357.25,0.02,44148.234000000004,4839
+2024-11-21,West,Product C,Clothing,Frank,71,66.07,0.27,4451.733,5268
+2024-08-26,South,Product C,Sports,Eva,24,159.66,0.27,2797.24,3553
+2023-04-15,Central,Product B,Home & Garden,Grace,11,392.82,0.26,3197.55,5389
+2023-04-30,North,Product C,Clothing,Diana,73,189.3,0.25,10364.18,1551
+2024-05-04,North,Product B,Home & Garden,Diana,12,128.39,0.14,1324.98,6566
+2023-04-14,West,Product C,Electronics,Diana,35,339.38,0.05,11284.38,6758
+2024-04-17,North,Product E,Books,Eva,63,106.41,0.14,5765.29,4051
+2024-12-15,North,Product E,Books,Bob,68,448.87,0.15,33728.097,6322
+2023-07-27,West,Product B,Home & Garden,Eva,92,61.74,0.15,4828.07,3555
+2024-11-11,West,Product E,Books,Henry,57,356.21,0.16,22171.929000000004,2089
+2023-01-30,Central,Product B,Clothing,Grace,13,254.78,0.08,3047.17,1458
+2023-02-01,North,Product E,Home & Garden,Henry,23,436.27,0.11,8930.45,5721
+2023-05-11,North,Product E,Sports,Grace,83,71.84,0.13,5187.57,7304
+2024-06-10,Central,Product B,Clothing,Frank,39,342.17,0.04,12810.84,2920
+2023-10-07,East,Product D,Clothing,Charlie,88,290.31,0.14,28561.858,8694
+2024-03-31,East,Product E,Clothing,Eva,80,245.24,0.24,14910.59,6668
+2023-04-18,East,Product C,Sports,Eva,97,250.79,0.25,18244.97,7298
+2023-10-05,Central,Product D,Electronics,Alice,12,363.77,0.12,4993.833,7629
+2023-04-18,North,Product B,Books,Grace,34,469.49,0.16,13408.63,6146
+2023-12-01,Central,Product D,Home & Garden,Alice,71,54.71,0.01,4999.241,2003
+2023-10-08,Central,Product A,Electronics,Alice,75,19.56,0.2,1525.6799999999998,4083
+2023-08-11,East,Product A,Home & Garden,Eva,31,404.8,0.12,11042.94,3589
+2024-12-19,South,Product E,Books,Bob,93,63.0,0.13,6626.529,5310
+2024-03-08,North,Product E,Sports,Charlie,62,493.48,0.26,22640.86,3241
+2024-09-25,East,Product C,Clothing,Charlie,13,313.48,0.14,3504.71,6766
+2023-09-15,South,Product D,Clothing,Henry,31,328.92,0.01,10094.55,8711
+2023-07-27,South,Product A,Sports,Grace,2,107.46,0.07,199.88,5980
+2023-12-10,West,Product E,Electronics,Frank,15,127.75,0.14,2142.3740000000003,1938
+2023-05-29,North,Product D,Electronics,Grace,57,333.08,0.13,16517.44,5301
+2024-02-18,South,Product E,Home & Garden,Bob,75,455.77,0.26,25295.24,4970
+2024-03-17,East,Product E,Sports,Bob,34,491.37,0.16,14033.53,4999
+2023-09-01,West,Product A,Electronics,Charlie,68,107.04,0.21,5750.19,5650
+2023-07-07,North,Product A,Sports,Diana,75,75.72,0.14,4883.94,7627
+2024-01-24,Central,Product E,Books,Alice,29,37.64,0.13,949.66,4408
+2024-12-16,East,Product B,Clothing,Alice,66,435.47,0.13,32506.096999999998,9962
+2023-11-23,South,Product E,Clothing,Charlie,16,154.41,0.12,2826.3170000000005,1248
+2024-10-08,South,Product E,Clothing,Grace,39,10.89,0.16,463.788,9564
+2023-04-30,East,Product C,Sports,Bob,77,119.67,0.08,8477.42,6950
+2023-10-08,South,Product C,Sports,Grace,37,176.82,0.27,6208.683,3926
+2024-09-16,West,Product C,Home & Garden,Frank,81,495.58,0.1,36127.78,8975
+2024-06-12,North,Product B,Clothing,Diana,21,266.54,0.04,5373.45,4857
+2024-08-27,West,Product B,Home & Garden,Charlie,44,110.31,0.03,4708.03,5930
+2023-05-20,South,Product E,Clothing,Alice,19,174.06,0.0,3307.14,8014
+2024-10-23,Central,Product C,Home & Garden,Eva,71,171.85,0.13,13799.721000000001,9893
+2023-01-28,North,Product B,Home & Garden,Grace,8,19.67,0.06,147.92,7966
+2023-05-22,North,Product A,Books,Bob,77,76.24,0.01,5811.78,7587
+2024-06-23,East,Product E,Home & Garden,Eva,66,350.65,0.16,19440.04,7496
+2023-08-19,East,Product D,Sports,Frank,41,68.92,0.2,2260.58,6091
+2024-11-04,Central,Product E,Home & Garden,Charlie,75,123.06,0.03,11638.406,9985
+2023-01-30,North,Product D,Clothing,Grace,88,181.86,0.14,13763.16,1677
+2023-11-09,Central,Product C,Home & Garden,Alice,70,381.29,0.22,27063.959000000003,6909
+2023-03-30,East,Product D,Electronics,Grace,61,295.38,0.3,12612.73,2561
+2024-07-10,East,Product C,Clothing,Diana,26,347.61,0.2,7230.29,5053
+2024-01-26,North,Product A,Electronics,Henry,71,287.84,0.07,19006.08,9644
+2023-11-10,West,Product D,Clothing,Eva,83,344.96,0.21,29404.738999999998,4656
+2023-03-20,South,Product E,Sports,Diana,70,11.39,0.18,653.79,6234
+2024-09-02,East,Product C,Sports,Frank,29,466.14,0.06,12706.98,5146
+2024-04-02,East,Product E,Sports,Alice,66,64.35,0.26,3142.85,6488
+2024-10-19,West,Product B,Electronics,Eva,19,209.06,0.13,4492.488,9081
+2024-06-01,West,Product C,Books,Frank,68,387.81,0.29,18723.47,1209
+2024-12-16,Central,Product D,Clothing,Diana,58,223.26,0.22,13130.364000000001,5983
+2023-11-29,Central,Product C,Sports,Diana,70,473.95,0.19,34934.848,8141
+2024-10-20,South,Product E,Clothing,Henry,57,239.12,0.22,13820.664,5945
+2024-07-01,South,Product A,Electronics,Eva,37,438.72,0.14,13960.07,8980
+2023-11-14,North,Product C,Books,Alice,61,407.31,0.15,27454.726000000002,4966
+2023-07-26,Central,Product D,Electronics,Diana,92,490.68,0.26,33405.49,9818
+2024-08-16,East,Product B,Clothing,Charlie,30,464.01,0.2,11136.24,3824
+2024-10-31,Central,Product A,Books,Henry,71,450.08,0.27,30325.945000000003,2250
+2023-11-04,East,Product B,Books,Frank,73,368.49,0.27,25527.879000000004,5758
+2024-02-04,West,Product C,Electronics,Eva,25,189.83,0.29,3369.48,5363
+2024-03-31,Central,Product E,Sports,Bob,97,62.0,0.21,4751.06,3163
+2023-04-22,West,Product E,Clothing,Bob,65,347.44,0.15,19196.06,2853
+2024-11-03,South,Product D,Home & Garden,Alice,6,489.54,0.05,3627.494,1753
+2024-07-05,South,Product E,Home & Garden,Charlie,18,366.04,0.21,5205.09,6448
+2023-12-15,North,Product A,Electronics,Diana,10,465.08,0.09,5501.898999999999,2868
+2024-06-21,Central,Product E,Clothing,Bob,92,404.11,0.08,34203.87,1181
+2024-09-08,West,Product D,Clothing,Alice,11,89.93,0.07,919.98,2513
+2024-07-03,East,Product C,Electronics,Frank,97,132.11,0.26,9482.86,4344
+2024-06-03,South,Product C,Clothing,Henry,65,177.51,0.26,8538.23,6238
+2024-02-01,South,Product E,Sports,Charlie,77,92.45,0.19,5766.11,8089
+2023-08-10,East,Product B,Electronics,Charlie,84,295.01,0.14,21311.52,7401
+2023-10-25,West,Product C,Sports,Grace,65,487.97,0.2,32986.772,3556
+2024-08-18,West,Product E,Clothing,Alice,52,383.11,0.18,16335.81,7098
+2023-08-17,Central,Product D,Electronics,Alice,67,217.46,0.12,12821.44,6280
+2024-06-19,Central,Product E,Clothing,Grace,82,12.21,0.11,891.09,5244
+2024-08-20,North,Product C,Electronics,Henry,78,163.51,0.11,11350.86,3164
+2024-01-11,South,Product D,Clothing,Diana,31,268.11,0.18,6815.36,7601
+2023-06-23,Central,Product E,Sports,Alice,91,168.88,0.19,12448.14,3021
+2023-06-16,West,Product A,Sports,Grace,17,64.41,0.14,941.67,3821
+2024-05-03,East,Product D,Clothing,Diana,55,226.95,0.29,8862.4,6938
+2023-02-10,West,Product A,Electronics,Henry,93,134.09,0.03,12096.26,7132
+2024-10-17,South,Product B,Home & Garden,Diana,36,455.52,0.1,19186.505,6969
+2023-03-01,West,Product D,Sports,Eva,26,59.86,0.13,1354.03,7168
+2024-02-26,North,Product A,Sports,Charlie,53,34.08,0.01,1788.18,1713
+2024-08-19,South,Product C,Home & Garden,Frank,17,12.6,0.11,190.64,8203
+2024-12-18,East,Product C,Clothing,Charlie,86,170.75,0.08,17562.662,4545
+2024-01-13,North,Product B,Electronics,Charlie,25,333.59,0.15,7088.79,9414
+2023-08-12,South,Product D,Clothing,Eva,2,367.9,0.1,662.22,1863
+2024-03-21,East,Product D,Books,Diana,86,232.1,0.22,15569.27,5625
+2023-02-21,North,Product D,Sports,Diana,5,345.32,0.15,1467.61,6307
+2024-04-06,North,Product B,Books,Alice,4,186.36,0.04,715.62,2425
+2024-05-08,South,Product D,Sports,Eva,36,337.23,0.23,9348.02,3304
+2024-06-29,Central,Product C,Sports,Alice,6,29.89,0.03,173.96,1653
+2024-10-10,North,Product A,Books,Eva,21,201.47,0.25,4125.095,9129
+2023-02-09,North,Product C,Books,Alice,77,397.52,0.28,22038.51,7734
+2024-11-12,East,Product C,Clothing,Bob,89,403.47,0.1,42013.335,1443
+2024-09-20,West,Product A,Books,Grace,26,360.91,0.28,6756.24,8459
+2023-05-11,South,Product C,Clothing,Charlie,55,110.08,0.24,4601.34,5669
+2023-06-29,South,Product B,Clothing,Charlie,39,131.13,0.28,3682.13,6106
+2024-09-11,Central,Product A,Clothing,Henry,84,498.08,0.2,33470.98,5436
+2024-04-16,Central,Product C,Sports,Frank,33,60.66,0.07,1861.66,3857
+2024-03-19,South,Product E,Sports,Grace,14,98.52,0.27,1006.87,4039
+2023-11-02,Central,Product C,Books,Diana,56,73.71,0.06,5044.117,9291
+2024-09-29,East,Product B,Sports,Frank,81,170.55,0.06,12985.68,3737
+2023-08-10,South,Product D,Books,Bob,21,112.99,0.08,2182.97,7956
+2024-08-13,Central,Product C,Sports,Henry,46,253.87,0.09,10627.0,6239
+2023-12-06,South,Product D,Electronics,Frank,16,243.25,0.15,4300.66,2607
+2023-08-03,West,Product E,Electronics,Henry,16,451.74,0.21,5709.99,3953
+2023-08-21,North,Product C,Books,Charlie,84,27.02,0.28,1634.17,6933
+2024-06-14,South,Product A,Sports,Diana,29,166.74,0.03,4690.4,5682
+2024-08-01,North,Product D,Sports,Bob,92,302.36,0.29,19750.16,7333
+2024-10-07,Central,Product E,Clothing,Charlie,8,306.35,0.28,2293.954,8392
+2024-10-26,North,Product A,Home & Garden,Grace,88,245.26,0.02,27496.586000000003,7609
+2023-08-22,South,Product A,Books,Alice,3,409.68,0.11,1093.85,5925
+2023-05-10,West,Product A,Home & Garden,Eva,89,40.73,0.24,2754.98,8250
+2024-09-12,Central,Product A,Home & Garden,Bob,19,409.59,0.18,6381.41,6783
+2024-01-02,South,Product C,Books,Diana,97,252.43,0.23,18854.0,7723
+2024-05-11,Central,Product C,Sports,Henry,66,75.54,0.22,3888.8,1184
+2024-10-26,East,Product C,Books,Frank,79,443.99,0.15,38758.109000000004,1521
+2023-03-04,North,Product E,Home & Garden,Grace,86,328.12,0.01,27936.14,2248
+2024-05-06,East,Product E,Sports,Frank,74,90.14,0.18,5469.7,2002
+2024-04-25,South,Product E,Electronics,Bob,82,26.49,0.01,2150.46,7266
+2024-04-05,West,Product B,Books,Grace,22,79.14,0.18,1427.69,7444
+2024-08-05,Central,Product E,Books,Diana,46,308.31,0.24,10778.52,8017
+2024-11-13,North,Product C,Sports,Bob,91,97.86,0.18,9493.003,9585
+2023-01-01,Central,Product C,Electronics,Diana,13,120.62,0.3,1097.64,2617
+2024-05-27,South,Product B,Electronics,Frank,33,22.32,0.14,633.44,1660
+2023-06-22,Central,Product B,Sports,Charlie,5,364.24,0.22,1420.54,6524
+2024-01-12,North,Product E,Clothing,Grace,90,407.08,0.2,29309.76,8616
+2023-10-20,South,Product D,Books,Alice,77,400.46,0.3,28060.227000000003,6250
+2024-08-31,Central,Product B,Books,Charlie,27,72.51,0.21,1546.64,8512
+2023-05-27,West,Product A,Home & Garden,Alice,78,452.62,0.05,33539.14,7905
+2023-04-29,South,Product C,Sports,Frank,24,339.42,0.29,5783.72,1319
+2024-10-27,South,Product A,Home & Garden,Henry,67,449.79,0.2,31341.362000000005,9775
+2023-01-30,West,Product C,Home & Garden,Grace,63,229.11,0.02,14145.25,4600
+2023-09-23,East,Product C,Electronics,Charlie,94,224.11,0.2,16853.07,6960
+2023-05-03,North,Product B,Books,Charlie,99,394.42,0.26,28895.21,6279
+2023-02-22,East,Product B,Home & Garden,Bob,48,55.72,0.17,2219.88,9773
+2024-03-09,Central,Product A,Electronics,Eva,63,265.23,0.11,14871.45,2767
+2024-07-22,West,Product C,Sports,Frank,78,419.83,0.25,24560.06,2798
+2023-11-03,East,Product A,Home & Garden,Diana,12,416.79,0.23,5006.482,9949
+2023-11-28,South,Product D,Books,Frank,28,478.51,0.16,14630.928,1282
+2024-10-10,Central,Product A,Home & Garden,Diana,44,352.15,0.05,19135.831000000002,7337
+2024-12-13,Central,Product E,Sports,Grace,93,111.81,0.08,12436.398,6166
+2023-05-10,East,Product A,Home & Garden,Diana,43,19.94,0.22,668.79,8121
+2023-11-05,East,Product E,Books,Henry,17,244.91,0.24,4113.512,8409
+2023-03-02,West,Product E,Electronics,Alice,40,261.71,0.08,9630.93,6489
+2024-06-16,North,Product E,Books,Diana,49,127.73,0.11,5570.31,5896
+2023-07-13,East,Product D,Electronics,Diana,85,71.1,0.02,5922.63,1130
+2024-12-05,East,Product A,Clothing,Bob,57,297.24,0.21,17400.136,2293
+2023-02-24,South,Product A,Books,Charlie,87,384.49,0.0,33450.63,7059
+2023-01-02,Central,Product D,Books,Frank,84,496.65,0.01,41301.41,7957
+2023-05-17,North,Product C,Sports,Frank,64,381.57,0.0,24420.48,1060
+2024-08-15,South,Product B,Home & Garden,Grace,75,398.88,0.19,24231.96,3211
+2024-08-27,West,Product A,Electronics,Grace,57,312.07,0.13,15475.55,7276
+2024-07-08,West,Product B,Electronics,Henry,98,493.1,0.09,43974.66,6363
+2024-04-25,East,Product D,Sports,Diana,74,323.58,0.27,17479.79,9152
+2024-10-10,East,Product C,Sports,Eva,74,431.52,0.06,39021.489,8973
+2023-07-19,West,Product C,Home & Garden,Frank,70,473.43,0.12,29163.29,1037
+2023-01-02,East,Product C,Home & Garden,Grace,88,465.63,0.28,29502.32,6990
+2024-11-29,North,Product D,Books,Diana,76,196.89,0.13,16923.881,6438
+2024-09-05,East,Product E,Clothing,Grace,43,48.54,0.17,1732.39,8677
+2024-10-21,Central,Product E,Home & Garden,Henry,23,94.22,0.02,2760.836,1473
+2023-03-21,East,Product B,Sports,Alice,27,39.02,0.24,800.69,1058
+2023-08-10,South,Product E,Home & Garden,Alice,58,61.64,0.13,3110.35,3636
+2023-11-09,North,Product E,Electronics,Grace,37,100.48,0.24,3673.15,3614
+2024-03-19,South,Product C,Clothing,Alice,6,177.14,0.08,977.81,8296
+2023-05-23,South,Product C,Books,Grace,65,276.33,0.13,15626.46,5999
+2024-04-08,Central,Product B,Electronics,Diana,6,358.72,0.24,1635.76,9276
+2024-07-30,North,Product A,Electronics,Bob,50,113.35,0.29,4023.92,4797
+2024-07-04,North,Product B,Clothing,Eva,22,339.54,0.02,7320.48,3674
+2023-06-15,North,Product B,Books,Diana,88,355.09,0.24,23748.42,7436
+2024-11-15,North,Product D,Sports,Bob,25,283.72,0.09,8391.019,4120
+2023-01-16,North,Product D,Books,Bob,79,452.77,0.17,29688.13,3076
+2024-01-27,Central,Product B,Home & Garden,Frank,90,64.39,0.09,5273.54,4190
+2023-04-15,East,Product B,Electronics,Diana,72,96.79,0.18,5714.48,5787
+2023-03-21,South,Product B,Home & Garden,Diana,51,220.05,0.11,9988.07,7056
+2023-03-20,North,Product E,Sports,Grace,88,72.09,0.1,5709.53,8494
+2023-01-30,East,Product D,Home & Garden,Bob,48,287.49,0.01,13661.52,4577
+2024-09-09,East,Product B,Books,Bob,70,205.22,0.04,13790.78,5741
+2024-08-02,South,Product C,Home & Garden,Bob,99,149.45,0.28,10652.8,7832
+2024-08-02,Central,Product C,Sports,Grace,65,93.3,0.3,4245.15,3581
+2024-05-27,West,Product E,Sports,Frank,60,174.32,0.23,8053.58,4787
+2023-03-28,West,Product E,Sports,Diana,46,307.9,0.09,12888.69,9707
+2023-08-06,East,Product A,Books,Bob,36,292.13,0.12,9254.68,8103
+2023-08-30,South,Product A,Sports,Alice,58,90.18,0.22,4079.74,1932
+2024-01-16,West,Product A,Electronics,Diana,76,71.21,0.29,3842.49,2663
+2023-04-14,East,Product E,Sports,Grace,38,23.07,0.14,753.93,9748
+2023-02-22,Central,Product E,Home & Garden,Frank,11,16.09,0.25,132.74,8914
+2023-09-09,West,Product E,Home & Garden,Alice,12,441.11,0.29,3758.26,5852
+2023-02-06,East,Product C,Home & Garden,Grace,42,32.09,0.26,997.36,2104
+2024-10-13,East,Product E,Books,Charlie,39,368.3,0.07,17365.712,2270
+2023-04-13,North,Product C,Home & Garden,Diana,71,437.27,0.0,31046.17,4646
+2024-08-11,Central,Product A,Books,Charlie,11,58.05,0.15,542.77,6087
+2024-06-22,North,Product A,Books,Grace,36,223.79,0.16,6767.41,5723
+2023-01-27,South,Product A,Sports,Grace,52,481.53,0.06,23537.19,3054
+2024-12-28,North,Product B,Electronics,Grace,31,418.73,0.09,15356.081000000002,7658
+2023-05-10,North,Product B,Sports,Bob,33,249.95,0.23,6351.23,2842
+2023-12-21,West,Product D,Sports,Frank,13,383.66,0.14,5576.116,3802
+2024-08-28,East,Product D,Books,Bob,18,418.36,0.1,6777.43,8735
+2023-11-17,Central,Product D,Books,Frank,41,180.53,0.19,7794.0199999999995,9201
+2023-09-14,North,Product B,Home & Garden,Eva,58,447.15,0.2,20747.76,9313
+2024-11-13,Central,Product B,Home & Garden,Bob,56,240.53,0.23,13483.145,7105
+2024-12-01,North,Product D,Sports,Charlie,24,268.63,0.05,7962.188,3560
+2024-07-24,South,Product D,Clothing,Frank,73,499.86,0.22,28462.03,4037
+2024-07-05,North,Product E,Clothing,Bob,31,423.22,0.18,10758.25,9632
+2024-06-24,West,Product D,Home & Garden,Diana,55,187.27,0.02,10093.85,3749
+2024-01-10,East,Product E,Clothing,Grace,10,15.07,0.23,116.04,1590
+2024-05-31,South,Product C,Home & Garden,Frank,60,316.83,0.11,16918.72,2368
+2023-10-23,North,Product B,Books,Frank,2,354.92,0.1,830.518,2361
+2023-04-19,Central,Product D,Sports,Bob,15,328.89,0.13,4292.01,9128
+2024-09-11,South,Product B,Electronics,Eva,3,484.25,0.1,1307.48,4773
+2023-08-15,South,Product B,Sports,Bob,43,432.86,0.1,16751.68,3064
+2023-01-18,North,Product B,Home & Garden,Henry,31,229.93,0.24,5417.15,3415
+2023-06-09,South,Product C,Home & Garden,Charlie,70,40.8,0.04,2741.76,3951
+2023-10-23,Central,Product A,Sports,Charlie,67,243.27,0.29,15044.055,6616
+2023-09-09,South,Product D,Home & Garden,Frank,56,347.73,0.17,16162.49,8975
+2024-01-30,Central,Product A,Clothing,Frank,63,307.78,0.05,18420.63,8101
+2024-06-06,North,Product A,Clothing,Bob,75,273.69,0.04,19705.68,6003
+2024-08-09,East,Product A,Home & Garden,Charlie,15,239.72,0.18,2948.56,9306
+2023-08-22,South,Product B,Home & Garden,Charlie,92,153.94,0.19,11471.61,7243
+2023-10-26,East,Product E,Clothing,Eva,10,145.9,0.02,1858.766,7581
+2024-09-18,Central,Product B,Home & Garden,Diana,38,255.11,0.07,9015.59,9330
+2024-01-08,South,Product B,Home & Garden,Eva,47,88.7,0.24,3168.36,5923
+2023-01-12,West,Product A,Sports,Henry,57,176.94,0.01,9984.72,7467
+2024-02-04,East,Product B,Electronics,Alice,50,168.75,0.26,6243.75,5941
+2023-02-22,South,Product A,Clothing,Grace,71,297.7,0.2,16909.36,7437
+2023-03-13,East,Product E,Sports,Eva,15,42.67,0.13,556.84,7076
+2024-04-14,South,Product D,Electronics,Henry,18,416.54,0.1,6747.95,6648
+2024-05-10,North,Product A,Home & Garden,Bob,82,285.57,0.01,23182.57,9001
+2024-06-21,East,Product E,Home & Garden,Diana,88,338.71,0.25,22354.86,2315
+2024-10-13,West,Product D,Sports,Bob,2,354.52,0.04,884.884,1073
+2024-12-28,West,Product C,Home & Garden,Grace,84,152.83,0.09,15187.029,9675
+2024-04-13,Central,Product A,Books,Henry,98,240.48,0.17,19560.64,2549
+2024-07-27,South,Product A,Sports,Alice,43,478.56,0.07,19137.61,2359
+2024-12-24,East,Product C,Electronics,Diana,26,385.69,0.15,11080.875,2896
+2024-03-04,Central,Product C,Sports,Frank,71,485.08,0.24,26174.92,7659
+2024-11-15,East,Product A,Clothing,Charlie,38,375.66,0.14,15959.541,6246
+2023-08-16,South,Product C,Sports,Eva,94,96.04,0.28,6499.99,7967
+2023-12-20,West,Product B,Home & Garden,Henry,42,41.62,0.25,1704.339,7661
+2023-12-14,North,Product D,Home & Garden,Bob,5,293.05,0.1,1714.336,1510
+2024-04-20,West,Product D,Books,Alice,11,185.33,0.12,1793.99,9614
+2023-01-20,Central,Product D,Books,Charlie,65,144.97,0.13,8198.05,3432
+2024-09-11,North,Product B,Books,Eva,34,405.53,0.19,11168.3,2906
+2024-07-13,Central,Product C,Electronics,Charlie,1,189.83,0.09,172.75,1064
+2024-10-20,South,Product E,Books,Eva,83,165.33,0.29,12665.77,5928
+2024-08-14,North,Product C,Electronics,Henry,2,426.49,0.18,699.44,5710
+2023-05-14,Central,Product A,Books,Frank,85,424.68,0.12,31766.06,7124
+2024-08-23,South,Product D,Electronics,Diana,20,184.62,0.19,2990.84,8837
+2023-01-14,West,Product C,Sports,Henry,61,417.92,0.12,22433.95,1800
+2023-09-13,South,Product E,Sports,Charlie,87,426.88,0.25,27853.92,7063
+2023-05-06,East,Product A,Home & Garden,Charlie,21,217.73,0.17,3795.03,9469
+2024-12-21,South,Product B,Electronics,Charlie,88,42.57,0.01,4821.3099999999995,7109
+2024-11-28,South,Product B,Clothing,Diana,68,10.78,0.05,905.307,7659
+2024-02-06,East,Product E,Home & Garden,Alice,12,266.41,0.26,2365.72,2238
+2023-02-02,Central,Product A,Sports,Eva,22,178.6,0.17,3261.24,7582
+2024-02-15,Central,Product D,Electronics,Henry,20,498.59,0.29,7079.98,5523
+2023-04-13,South,Product C,Books,Henry,82,388.48,0.02,31218.25,6620
+2024-10-24,East,Product A,Clothing,Frank,1,383.02,0.09,453.115,2486
+2024-05-01,East,Product B,Sports,Charlie,30,478.07,0.06,13481.57,5681
+2024-11-03,West,Product E,Home & Garden,Grace,97,444.98,0.17,46572.941999999995,5470
+2023-08-04,Central,Product E,Electronics,Henry,24,165.91,0.11,3543.84,6619
+2024-12-01,North,Product C,Clothing,Diana,14,91.33,0.05,1579.0970000000002,9284
+2024-07-29,Central,Product E,Electronics,Alice,36,375.49,0.19,10949.29,8177
+2024-04-27,Central,Product E,Books,Henry,69,195.35,0.16,11322.49,6441
+2024-05-05,West,Product A,Home & Garden,Eva,75,241.85,0.08,16687.65,2840
+2024-01-26,North,Product D,Electronics,Diana,24,318.89,0.14,6581.89,6397
+2023-05-18,West,Product C,Sports,Frank,60,454.86,0.22,21287.45,2621
+2024-01-03,North,Product A,Home & Garden,Frank,95,215.35,0.06,19230.75,2561
+2023-11-30,South,Product D,Sports,Eva,55,393.83,0.09,25624.547,6849
+2024-07-11,North,Product A,Electronics,Charlie,77,141.49,0.1,9805.26,2416
+2024-04-14,West,Product A,Home & Garden,Frank,80,352.01,0.22,21965.42,5190
+2024-12-02,Central,Product E,Sports,Alice,24,10.77,0.25,252.01800000000003,6054
+2023-11-23,North,Product D,Books,Diana,77,437.04,0.11,38935.455,2130
+2024-10-06,North,Product C,Books,Henry,24,24.89,0.09,706.6800000000001,4597
+2024-05-13,East,Product C,Electronics,Alice,54,359.25,0.27,14161.64,3118
+2023-11-22,Central,Product D,Home & Garden,Charlie,26,32.67,0.3,772.9670000000001,1663
+2024-09-22,South,Product E,Clothing,Alice,66,140.46,0.2,7416.29,3634
+2023-05-22,West,Product B,Home & Garden,Alice,80,253.63,0.3,14203.28,3774
+2024-01-19,South,Product A,Books,Bob,38,215.77,0.2,6559.41,7194
+2024-07-08,Central,Product E,Sports,Alice,65,104.0,0.22,5272.8,4969
+2023-02-17,North,Product D,Clothing,Eva,75,173.57,0.12,11455.62,4490
+2024-12-14,North,Product A,Electronics,Diana,51,366.58,0.13,21144.695,2523
+2023-08-01,Central,Product C,Clothing,Bob,35,337.94,0.04,11354.78,9053
+2024-09-02,North,Product B,Electronics,Diana,43,45.19,0.25,1457.38,1987
+2024-11-12,North,Product C,Clothing,Diana,29,376.18,0.28,10211.032000000001,8915
+2023-07-29,North,Product D,Electronics,Charlie,37,35.99,0.19,1078.62,7403
+2024-10-15,West,Product A,Electronics,Charlie,81,276.03,0.1,26159.367000000002,6321
+2023-10-03,West,Product D,Clothing,Bob,58,137.43,0.05,9844.107,4845
+2024-02-16,East,Product A,Clothing,Frank,54,297.97,0.08,14803.15,7301
+2023-06-18,South,Product E,Electronics,Grace,39,138.05,0.08,4953.23,1098
+2023-02-28,Central,Product B,Books,Charlie,42,492.63,0.18,16966.18,3288
+2023-05-16,Central,Product E,Clothing,Grace,28,161.77,0.28,3261.28,5297
+2024-01-12,Central,Product E,Home & Garden,Charlie,29,128.56,0.01,3690.96,9825
+2023-12-11,East,Product D,Sports,Charlie,43,146.45,0.0,8186.555000000001,8796
+2024-02-03,West,Product B,Electronics,Diana,3,449.27,0.18,1105.2,8263
+2024-12-10,East,Product A,Electronics,Bob,10,321.75,0.09,3806.2960000000003,9770
+2024-04-24,Central,Product A,Sports,Diana,59,368.04,0.26,16068.63,4959
+2023-06-08,South,Product C,Books,Henry,14,459.83,0.1,5793.86,8385
+2024-09-21,North,Product A,Sports,Eva,76,456.82,0.09,31593.67,9464
+2023-05-29,West,Product D,Clothing,Diana,47,372.08,0.08,16088.74,6338
+2023-08-13,West,Product E,Sports,Grace,42,106.93,0.04,4311.42,5881
+2023-04-11,East,Product E,Electronics,Grace,94,423.25,0.17,33021.96,4954
+2023-03-02,West,Product E,Sports,Eva,32,109.85,0.05,3339.44,4927
+2023-10-16,Central,Product B,Home & Garden,Alice,32,374.02,0.13,13536.536,9644
+2024-09-09,Central,Product A,Clothing,Alice,42,345.95,0.14,12495.71,5911
+2023-06-17,East,Product D,Sports,Eva,32,381.86,0.01,12097.32,1413
+2023-02-16,Central,Product B,Electronics,Eva,26,271.02,0.01,6976.05,2550
+2024-04-21,South,Product C,Clothing,Diana,1,322.98,0.16,271.3,5526
+2024-07-28,East,Product D,Electronics,Eva,56,477.13,0.21,21108.23,8141
+2024-05-27,South,Product D,Books,Henry,2,59.53,0.28,85.72,7571
+2024-04-21,North,Product D,Home & Garden,Bob,81,161.34,0.05,12415.11,2946
+2023-08-02,South,Product E,Books,Alice,30,309.56,0.03,9008.2,6203
+2024-11-13,North,Product D,Home & Garden,Alice,71,482.39,0.02,43634.11,1191
+2024-10-26,North,Product A,Sports,Henry,52,56.83,0.13,3342.287,1040
+2023-12-19,South,Product D,Clothing,Frank,91,21.05,0.19,2017.08,6892
+2023-01-23,East,Product E,Sports,Henry,9,37.32,0.25,251.91,4449
+2023-12-01,Central,Product D,Home & Garden,Henry,22,35.68,0.2,816.3610000000001,9327
+2024-02-17,Central,Product C,Home & Garden,Eva,34,454.83,0.06,14536.37,6909
+2023-07-30,North,Product C,Home & Garden,Charlie,49,363.42,0.14,15314.52,2941
+2024-07-15,North,Product E,Electronics,Charlie,1,341.78,0.27,249.5,5221
+2024-06-24,East,Product A,Clothing,Henry,73,266.06,0.1,17480.14,8524
+2024-11-18,West,Product A,Sports,Eva,84,393.16,0.15,36493.106,7543
+2024-08-13,South,Product B,Sports,Bob,53,86.27,0.29,3246.34,7222
+2023-11-22,North,Product E,Books,Charlie,83,202.05,0.22,17004.936,9580
+2023-09-29,Central,Product D,Home & Garden,Frank,40,250.1,0.22,7803.12,2558
+2024-09-25,East,Product E,Home & Garden,Grace,45,64.1,0.08,2653.74,3121
+2024-04-24,South,Product B,Home & Garden,Eva,68,215.56,0.12,12899.11,2028
+2023-10-17,East,Product E,Sports,Henry,9,165.09,0.02,1892.917,9273
+2024-04-21,South,Product E,Books,Bob,22,27.44,0.18,495.02,6656
+2024-11-06,South,Product B,Electronics,Bob,18,77.0,0.03,1747.746,9967
+2024-08-24,North,Product A,Clothing,Diana,76,384.38,0.25,21909.66,4038
+2024-04-27,East,Product D,Electronics,Bob,43,18.84,0.24,615.69,2878
+2023-11-13,East,Product B,Sports,Charlie,39,467.78,0.16,19921.811,3271
+2024-12-18,Central,Product C,Home & Garden,Henry,73,52.35,0.04,4769.2970000000005,2607
+2023-10-17,Central,Product A,Clothing,Grace,6,401.63,0.01,3101.384,4139
+2024-10-16,North,Product C,Sports,Charlie,83,450.32,0.24,36928.047,1605
+2023-09-15,North,Product A,Sports,Eva,48,471.16,0.18,18544.86,5735
+2024-03-12,West,Product D,Sports,Grace,7,435.06,0.21,2405.88,4665
+2024-06-24,Central,Product D,Clothing,Eva,80,150.9,0.09,10985.52,6852
+2023-12-30,South,Product E,Clothing,Bob,69,173.21,0.15,13206.401000000002,6462
+2024-02-15,East,Product C,Books,Frank,16,219.01,0.22,2733.24,3144
+2024-03-14,North,Product A,Books,Alice,1,78.26,0.14,67.3,5270
+2023-11-18,East,Product D,Electronics,Grace,37,20.91,0.18,824.733,9107
+2024-09-18,East,Product B,Clothing,Henry,83,435.87,0.24,27494.68,2376
+2023-08-19,West,Product D,Clothing,Diana,37,281.52,0.06,9791.27,4462
+2023-10-17,Central,Product B,Clothing,Alice,81,308.27,0.02,31811.611,1347
+2024-03-31,North,Product A,Books,Bob,64,464.22,0.16,24956.47,1000
+2024-07-14,East,Product D,Sports,Bob,90,335.91,0.02,29627.26,1062
+2024-02-27,North,Product D,Home & Garden,Henry,86,348.52,0.23,23078.99,2783
+2023-03-27,South,Product A,Books,Alice,62,395.61,0.22,19131.7,9417
+2024-07-29,West,Product D,Clothing,Diana,72,67.01,0.26,3570.29,7566
+2024-02-20,South,Product B,Books,Grace,61,186.48,0.19,9213.98,2042
+2024-07-08,North,Product D,Electronics,Grace,33,484.42,0.02,15666.14,2234
+2023-10-01,North,Product C,Clothing,Alice,66,462.24,0.08,36487.373,2984
+2024-03-07,Central,Product E,Electronics,Eva,30,443.2,0.24,10104.96,2594
+2024-01-11,East,Product B,Clothing,Charlie,20,231.52,0.05,4398.88,7257
+2023-09-16,East,Product C,Books,Frank,60,430.02,0.21,20382.95,2952
+2024-11-27,South,Product A,Sports,Eva,82,33.71,0.23,2766.9849999999997,2695
+2023-01-03,West,Product B,Home & Garden,Grace,74,82.77,0.1,5512.48,1954
+2023-10-13,East,Product E,Electronics,Charlie,24,212.84,0.1,5976.542,4291
+2024-07-06,Central,Product E,Books,Frank,4,246.86,0.17,819.58,9548
+2024-03-10,South,Product A,Sports,Frank,37,139.12,0.26,3809.11,1968
+2023-02-15,South,Product A,Books,Frank,4,184.67,0.07,686.97,1241
+2023-04-05,Central,Product B,Electronics,Bob,77,89.76,0.28,4976.29,5234
+2024-07-04,West,Product D,Home & Garden,Henry,89,249.68,0.18,18221.65,9338
+2024-07-31,Central,Product A,Books,Frank,77,398.98,0.3,21505.02,8349
+2024-08-10,West,Product D,Clothing,Diana,18,334.07,0.03,5832.86,6161
+2024-10-04,Central,Product C,Sports,Alice,88,62.82,0.04,6899.139,9734
+2024-07-17,Central,Product E,Books,Grace,66,248.91,0.25,12321.05,9883
+2023-12-31,North,Product D,Sports,Diana,48,351.85,0.26,16247.023,2025
+2023-03-21,South,Product E,Clothing,Alice,33,269.65,0.13,7741.65,4359
+2023-11-15,Central,Product D,Home & Garden,Eva,58,201.92,0.21,12027.561,6257
+2024-06-13,Central,Product C,Home & Garden,Henry,83,314.74,0.26,19331.33,6736
+2024-04-02,East,Product A,Clothing,Eva,73,484.63,0.01,35024.21,8679
+2023-09-19,South,Product C,Sports,Alice,28,56.5,0.17,1313.06,3951
+2023-05-14,East,Product A,Books,Diana,35,201.11,0.26,5208.75,9921
+2024-03-23,South,Product A,Clothing,Alice,10,209.24,0.12,1841.31,8389
+2023-02-14,East,Product E,Electronics,Frank,65,292.71,0.09,17313.8,3555
+2023-09-06,Central,Product C,Sports,Bob,42,84.57,0.24,2699.47,2150
+2024-08-14,Central,Product D,Home & Garden,Grace,85,96.56,0.1,7386.84,2735
+2023-05-26,North,Product C,Clothing,Eva,9,149.83,0.0,1348.47,8931
+2024-07-18,East,Product E,Home & Garden,Grace,60,478.38,0.29,20378.99,2038
+2023-01-20,West,Product A,Sports,Bob,15,369.71,0.18,4547.43,7369
+2024-09-25,North,Product E,Home & Garden,Frank,99,334.23,0.25,24816.58,8127
+2024-10-28,East,Product B,Clothing,Frank,57,410.31,0.25,22802.975000000002,3912
+2024-10-26,East,Product B,Sports,Eva,69,72.51,0.02,6374.069,5840
+2023-12-08,North,Product D,Electronics,Eva,22,431.07,0.05,11712.168000000001,2242
+2023-07-05,Central,Product E,Clothing,Frank,64,301.47,0.09,17557.61,9964
+2023-02-04,East,Product D,Books,Charlie,41,174.31,0.1,6432.04,9098
+2024-06-14,Central,Product D,Clothing,Grace,87,409.77,0.2,28519.99,4412
+2023-01-11,North,Product B,Sports,Henry,71,403.26,0.19,23191.48,3499
+2024-08-14,Central,Product D,Clothing,Bob,56,424.4,0.15,20201.44,8160
+2024-05-04,South,Product B,Electronics,Grace,23,66.6,0.06,1439.89,7110
+2023-05-13,West,Product A,Electronics,Bob,25,484.99,0.11,10791.03,4545
+2024-06-28,East,Product E,Books,Charlie,91,480.22,0.16,36708.02,2213
+2024-06-02,West,Product D,Home & Garden,Henry,6,185.16,0.14,955.43,1418
+2024-04-05,Central,Product B,Sports,Diana,34,42.29,0.04,1380.35,5960
+2024-09-16,East,Product C,Sports,Bob,63,91.86,0.19,4687.62,1788
+2024-10-22,Central,Product D,Home & Garden,Grace,9,496.49,0.02,5692.752,2871
+2024-12-03,South,Product A,Electronics,Alice,60,285.88,0.11,19845.787,3025
+2024-03-17,North,Product A,Electronics,Henry,49,184.74,0.21,7151.29,7264
+2023-02-09,East,Product C,Clothing,Frank,97,151.22,0.01,14521.66,3446
+2023-03-13,South,Product B,Books,Frank,51,135.93,0.17,5753.92,8429
+2023-10-20,South,Product D,Books,Charlie,60,335.43,0.1,23547.186,5823
+2024-01-31,East,Product B,Books,Bob,70,215.5,0.0,15085.0,9752
+2024-06-18,Central,Product A,Clothing,Diana,37,483.05,0.06,16800.48,3651
+2023-04-18,South,Product B,Books,Bob,31,345.08,0.28,7702.19,1539
+2024-03-17,West,Product A,Home & Garden,Frank,98,398.1,0.16,32771.59,7499
+2024-09-30,South,Product B,Clothing,Eva,41,153.44,0.3,4403.73,5755
+2024-11-21,Central,Product C,Home & Garden,Alice,62,48.8,0.16,3303.9500000000003,6959
+2024-07-24,Central,Product E,Clothing,Henry,93,249.03,0.16,19454.22,4289
+2024-11-07,West,Product C,Books,Charlie,58,164.14,0.12,10891.023,6546
+2023-09-14,South,Product C,Home & Garden,Eva,14,109.02,0.09,1388.91,3758
+2024-12-07,Central,Product E,Home & Garden,Grace,36,476.79,0.08,20528.664,6311
+2024-01-20,East,Product E,Home & Garden,Diana,36,227.55,0.1,7372.62,5107
+2024-10-16,North,Product D,Clothing,Eva,79,95.61,0.14,8444.462,2895
+2024-08-27,North,Product D,Sports,Grace,8,107.34,0.06,807.2,3500
+2023-02-03,North,Product C,Books,Eva,26,147.55,0.07,3567.76,3829
+2023-03-05,South,Product C,Home & Garden,Diana,36,499.66,0.08,16548.74,1047
+2024-06-09,West,Product A,Sports,Henry,48,141.33,0.13,5901.94,3364
+2023-07-16,Central,Product A,Books,Eva,85,171.11,0.2,11635.48,6666
+2023-11-04,East,Product D,Books,Charlie,28,333.07,0.26,8971.573,7458
+2023-12-21,East,Product D,Home & Garden,Frank,68,154.04,0.09,12391.6,9945
+2023-03-27,South,Product A,Home & Garden,Bob,62,115.74,0.06,6745.33,9177
+2024-05-22,North,Product A,Clothing,Eva,80,87.73,0.11,6246.38,8630
+2024-08-04,South,Product B,Sports,Charlie,86,163.21,0.27,10246.32,8931
+2024-09-25,West,Product B,Sports,Bob,76,61.9,0.0,4704.4,8058
+2023-12-31,West,Product A,Home & Garden,Henry,80,19.14,0.2,1592.448,3802
+2024-02-20,Central,Product B,Books,Grace,51,404.27,0.14,17731.28,9594
+2024-02-19,Central,Product E,Home & Garden,Bob,42,77.57,0.05,3095.04,3086
+2023-07-10,West,Product D,Books,Grace,29,390.23,0.1,10185.0,7724
+2023-07-22,West,Product D,Books,Eva,82,400.8,0.07,30565.01,7155
+2023-06-23,West,Product A,Home & Garden,Charlie,10,273.58,0.26,2024.49,2149
+2023-11-26,South,Product C,Electronics,Frank,39,161.74,0.14,7052.188,1062
+2024-08-24,West,Product A,Sports,Eva,82,81.07,0.17,5517.62,4153
+2023-07-07,East,Product B,Books,Grace,1,371.03,0.18,304.24,6938
+2024-12-25,North,Product C,Books,Diana,39,304.68,0.19,12512.292000000001,1751
+2024-03-23,West,Product B,Electronics,Bob,21,331.17,0.15,5911.38,8776
+2024-11-23,North,Product E,Clothing,Eva,65,14.25,0.01,1192.087,9849
+2023-12-06,South,Product B,Electronics,Grace,15,464.48,0.1,8151.624,1700
+2024-10-12,North,Product E,Electronics,Henry,4,42.48,0.06,207.636,2540
+2023-11-19,South,Product E,Books,Bob,60,189.73,0.2,11839.152000000002,4032
+2023-07-16,East,Product B,Sports,Henry,61,207.33,0.02,12394.19,7167
+2024-10-29,South,Product B,Electronics,Grace,20,10.66,0.17,230.04800000000003,7364
+2023-01-16,South,Product E,Clothing,Charlie,10,253.57,0.06,2383.56,2983
+2023-09-08,Central,Product C,Home & Garden,Alice,87,378.88,0.28,23733.04,9506
+2024-10-01,West,Product E,Electronics,Henry,34,413.4,0.1,16445.052000000003,6796
+2023-10-16,West,Product D,Electronics,Eva,48,440.9,0.1,24760.944000000003,8648
+2023-02-07,East,Product E,Clothing,Frank,33,248.98,0.28,5915.76,8894
+2024-08-06,East,Product C,Sports,Eva,98,319.01,0.13,27198.79,3314
+2023-12-30,West,Product D,Electronics,Bob,61,48.96,0.29,2756.598,8959
+2023-03-15,Central,Product A,Electronics,Charlie,10,249.14,0.01,2466.49,2649
+2024-03-27,West,Product A,Sports,Grace,54,85.86,0.09,4219.16,8700
+2024-03-27,Central,Product C,Clothing,Diana,84,191.13,0.2,12843.94,7900
+2023-12-09,East,Product E,Electronics,Frank,65,171.36,0.27,10570.339,4800
+2023-09-07,North,Product B,Sports,Charlie,77,217.53,0.08,15409.83,3478
+2024-01-06,East,Product C,Electronics,Henry,1,290.1,0.28,208.87,8054
+2024-09-10,East,Product D,Home & Garden,Henry,5,452.41,0.18,1854.88,7059
+2023-06-09,South,Product D,Books,Eva,80,203.3,0.24,12360.64,9433
+2023-04-17,South,Product A,Home & Garden,Diana,15,490.75,0.12,6477.9,7209
+2023-04-27,South,Product D,Electronics,Charlie,28,381.92,0.06,10052.13,8115
+2024-12-28,South,Product C,Clothing,Alice,95,260.63,0.27,23497.096999999998,3256
+2024-06-26,Central,Product D,Books,Frank,23,325.57,0.28,5391.44,4368
+2023-10-03,West,Product C,Home & Garden,Bob,17,60.09,0.15,1128.79,8387
+2024-07-05,North,Product B,Sports,Charlie,98,423.82,0.0,41534.36,9558
+2023-11-08,East,Product A,Clothing,Charlie,13,295.36,0.03,4841.8369999999995,3827
+2023-07-10,Central,Product D,Home & Garden,Alice,14,493.17,0.17,5730.64,3487
+2024-11-14,North,Product C,Sports,Eva,11,321.85,0.01,4556.4349999999995,4603
+2023-04-05,Central,Product E,Electronics,Grace,28,418.71,0.12,10317.01,4521
+2024-08-20,Central,Product A,Sports,Grace,42,401.88,0.09,15359.85,5517
+2024-04-22,East,Product B,Home & Garden,Frank,96,179.28,0.21,13596.6,2643
+2023-04-02,West,Product C,Home & Garden,Frank,99,137.21,0.02,13312.11,2212
+2024-05-11,South,Product B,Electronics,Bob,61,220.94,0.15,11455.74,8345
+2024-09-16,West,Product B,Sports,Charlie,64,238.95,0.17,12693.02,5703
+2024-04-23,East,Product D,Sports,Diana,31,127.64,0.19,3205.04,6434
+2024-02-05,East,Product D,Electronics,Charlie,81,448.35,0.12,31958.39,1019
+2024-03-28,East,Product C,Sports,Grace,73,275.85,0.09,18324.72,1675
+2023-07-09,North,Product E,Electronics,Bob,10,489.44,0.2,3915.52,5477
+2023-11-25,West,Product C,Clothing,Charlie,8,406.91,0.25,3173.898,1608
+2023-03-19,West,Product E,Home & Garden,Alice,21,282.3,0.21,4683.36,7286
+2023-12-25,Central,Product B,Clothing,Grace,77,474.05,0.28,34165.72900000001,1061
+2023-08-09,Central,Product A,Books,Charlie,59,257.39,0.22,11845.09,2154
+2023-10-06,Central,Product C,Books,Charlie,50,444.68,0.23,22256.234,4716
+2024-12-20,East,Product C,Books,Grace,69,185.49,0.05,15806.531,6242
+2023-06-24,West,Product E,Electronics,Diana,70,195.53,0.13,11907.78,6559
+2024-07-18,East,Product B,Sports,Grace,30,214.88,0.15,5479.44,6022
+2023-06-01,North,Product B,Clothing,Alice,95,277.85,0.08,24284.09,7485
+2024-03-29,Central,Product E,Clothing,Alice,17,281.21,0.16,4015.68,2442
+2023-01-17,East,Product B,Clothing,Charlie,75,253.24,0.09,17283.63,2653
+2023-05-09,East,Product D,Clothing,Frank,20,159.94,0.21,2527.05,3502
+2023-11-01,North,Product A,Books,Diana,48,464.33,0.14,24917.802000000003,4269
+2024-01-27,South,Product C,Clothing,Charlie,73,298.41,0.14,18734.18,1281
+2023-07-29,West,Product A,Sports,Grace,2,209.79,0.3,293.71,4403
+2023-07-20,South,Product C,Books,Charlie,37,329.08,0.12,10714.84,2235
+2023-01-09,Central,Product D,Clothing,Bob,1,386.3,0.11,343.81,5760
+2023-09-25,East,Product B,Electronics,Bob,4,480.76,0.1,1730.74,7940
+2023-12-01,North,Product E,Home & Garden,Frank,54,254.78,0.27,13056.459,1785
+2024-04-23,North,Product D,Home & Garden,Diana,25,64.93,0.15,1379.76,4194
+2023-01-11,West,Product A,Home & Garden,Eva,3,225.98,0.18,555.91,5789
+2023-04-12,South,Product E,Books,Henry,9,244.7,0.05,2092.18,4775
+2023-03-20,West,Product B,Clothing,Bob,86,449.53,0.16,32474.05,6350
+2023-12-02,East,Product D,Books,Eva,87,203.45,0.08,21169.382,1533
+2023-01-08,West,Product E,Sports,Alice,76,477.13,0.22,28284.27,9593
+2023-05-12,North,Product D,Electronics,Bob,74,247.71,0.25,13747.9,4663
+2024-11-17,North,Product D,Electronics,Bob,34,487.15,0.21,17010.305,1129
+2023-02-26,Central,Product B,Home & Garden,Diana,43,14.02,0.22,470.23,3959
+2023-11-22,Central,Product C,Home & Garden,Frank,74,450.42,0.15,36830.846,2858
+2023-03-01,East,Product E,Home & Garden,Eva,94,466.25,0.21,34623.72,4649
+2024-11-17,South,Product B,Clothing,Grace,22,480.9,0.13,11965.759,4097
+2024-07-18,West,Product D,Sports,Bob,70,16.41,0.2,918.96,4512
+2023-01-12,East,Product B,Sports,Bob,2,94.13,0.08,173.2,5860
+2024-06-18,Central,Product C,Sports,Diana,94,330.34,0.02,30430.92,9833
+2024-11-03,West,Product E,Sports,Diana,66,22.48,0.12,1697.332,1723
+2023-12-15,Central,Product C,Home & Garden,Frank,32,41.17,0.14,1472.9,1737
+2023-07-17,West,Product A,Electronics,Eva,16,118.33,0.08,1741.82,2299
+2024-12-29,South,Product E,Home & Garden,Alice,76,261.1,0.22,20121.413,4480
+2023-07-20,East,Product C,Sports,Grace,1,277.49,0.02,271.94,1339
+2023-06-14,West,Product D,Home & Garden,Frank,72,26.79,0.07,1793.86,1152
+2024-02-01,North,Product E,Sports,Henry,48,93.48,0.22,3499.89,6684
+2024-06-06,North,Product E,Books,Alice,50,254.86,0.13,11086.41,4051
+2023-11-05,West,Product B,Electronics,Charlie,13,301.03,0.21,4019.054,1426
+2024-07-26,West,Product D,Books,Bob,15,82.72,0.17,1029.86,8146
+2024-02-03,West,Product A,Clothing,Eva,53,205.43,0.29,7730.33,9125
+2024-04-03,North,Product C,Home & Garden,Frank,44,453.16,0.18,16350.01,7347
+2023-01-22,North,Product B,Clothing,Bob,8,499.46,0.0,3995.68,3372
+2024-11-29,West,Product C,Home & Garden,Eva,74,493.74,0.11,42273.036,9126
+2023-11-25,Central,Product A,Books,Eva,46,442.02,0.04,25375.48,1949
+2024-07-17,Central,Product A,Sports,Eva,69,203.38,0.28,10103.92,8695
+2023-04-29,South,Product E,Sports,Bob,19,346.42,0.03,6384.52,2373
+2024-08-23,East,Product A,Home & Garden,Frank,38,214.13,0.12,7160.51,8082
+2023-09-05,Central,Product C,Sports,Grace,11,327.78,0.07,3353.19,3482
+2024-11-26,North,Product D,Books,Diana,43,161.62,0.25,6775.912,8593
+2023-03-12,Central,Product D,Sports,Bob,20,307.04,0.09,5588.13,1370
+2023-07-26,South,Product E,Books,Henry,20,266.64,0.3,3732.96,8837
+2023-03-25,South,Product C,Clothing,Eva,21,22.0,0.01,457.38,3296
+2024-06-30,East,Product C,Books,Frank,82,397.44,0.04,31286.48,8034
+2023-05-11,Central,Product A,Electronics,Grace,57,15.83,0.07,839.15,7324
+2024-01-29,North,Product C,Electronics,Charlie,50,153.65,0.24,5838.7,8142
+2023-12-27,North,Product B,Electronics,Henry,74,12.9,0.26,918.32,8028
+2023-06-02,West,Product A,Home & Garden,Alice,98,194.34,0.02,18664.41,7479
+2023-03-05,North,Product B,Home & Garden,Henry,26,40.95,0.01,1054.05,5145
+2024-09-02,East,Product E,Home & Garden,Eva,30,457.62,0.22,10708.31,5021
+2023-03-04,East,Product D,Books,Charlie,73,213.68,0.04,14974.69,3364
+2023-09-11,North,Product E,Home & Garden,Diana,31,235.15,0.04,6998.06,6230
+2024-02-19,North,Product D,Clothing,Grace,42,181.43,0.01,7543.86,6970
+2023-05-05,West,Product E,Electronics,Grace,68,317.48,0.01,21372.75,9954
+2024-10-27,North,Product C,Books,Eva,61,394.36,0.08,28770.924,8300
+2024-12-20,West,Product B,Electronics,Henry,61,327.59,0.02,25458.329,7755
+2023-10-03,West,Product D,Home & Garden,Henry,70,376.62,0.11,30502.459000000003,2004
+2024-05-19,North,Product A,Books,Grace,78,453.93,0.25,26554.9,8057
+2024-09-09,South,Product B,Sports,Charlie,68,433.14,0.1,26508.17,4755
+2024-12-15,South,Product A,Clothing,Eva,90,340.29,0.22,31054.868000000002,3846
+2023-07-28,West,Product B,Home & Garden,Bob,17,115.17,0.03,1899.15,7262
+2023-04-25,North,Product B,Home & Garden,Frank,19,322.47,0.2,4901.54,9541
+2023-09-25,South,Product E,Clothing,Charlie,51,257.98,0.1,11841.28,3964
+2024-12-17,North,Product D,Clothing,Frank,70,361.44,0.22,25655.006,9878
+2024-03-19,North,Product D,Sports,Bob,63,418.14,0.04,25289.11,5637
+2023-04-12,North,Product B,Home & Garden,Bob,93,373.93,0.27,25386.11,3755
+2023-03-07,Central,Product C,Home & Garden,Frank,75,424.81,0.07,29630.5,4624
+2024-06-30,North,Product C,Electronics,Charlie,80,41.29,0.11,2939.85,3732
+2024-12-10,Central,Product A,Books,Frank,30,25.49,0.29,705.8220000000001,7473
+2024-03-27,West,Product A,Books,Frank,25,136.67,0.17,2835.9,7351
+2024-04-04,South,Product E,Electronics,Alice,75,451.33,0.11,30126.28,2693
+2024-01-05,South,Product B,Books,Charlie,71,413.59,0.28,21142.72,1684
+2023-09-26,South,Product A,Clothing,Henry,26,344.54,0.1,8062.24,3919
+2024-10-10,South,Product A,Books,Henry,56,353.37,0.03,24953.578,8166
+2023-01-25,South,Product B,Books,Alice,22,366.07,0.3,5637.48,4756
+2024-10-23,South,Product E,Electronics,Eva,89,471.88,0.08,50228.789,6454
+2024-03-03,South,Product A,Sports,Grace,19,417.77,0.26,5873.85,4283
+2023-05-22,West,Product E,Books,Henry,31,315.46,0.05,9290.3,5691
+2024-01-28,North,Product D,Books,Frank,26,336.2,0.22,6818.14,7828
+2023-08-01,East,Product E,Sports,Eva,42,114.73,0.16,4047.67,8350
+2023-09-25,Central,Product C,Electronics,Henry,41,332.09,0.29,9667.14,2156
+2023-02-17,East,Product C,Sports,Charlie,23,218.09,0.17,4163.34,4061
+2023-05-16,East,Product E,Electronics,Frank,47,84.95,0.01,3952.72,8157
+2023-08-10,North,Product C,Clothing,Grace,13,405.14,0.18,4318.79,6919
+2024-01-29,North,Product D,Electronics,Eva,89,260.02,0.04,22216.11,6893
+2024-08-02,North,Product B,Clothing,Henry,66,488.94,0.24,24525.23,5445
+2024-12-22,South,Product C,Clothing,Henry,66,148.02,0.26,9398.09,7436
+2024-01-15,West,Product C,Electronics,Diana,16,245.53,0.14,3378.49,2292
+2024-02-22,South,Product E,Home & Garden,Henry,73,229.52,0.23,12901.32,8902
+2024-09-01,West,Product D,Electronics,Bob,28,69.18,0.04,1859.56,3067
+2023-10-30,West,Product B,Books,Frank,77,218.8,0.15,18616.597999999998,2979
+2024-06-17,East,Product E,Books,Grace,35,150.9,0.12,4647.72,2736
+2024-04-08,East,Product E,Home & Garden,Bob,41,88.56,0.18,2977.39,2918
+2023-02-04,West,Product D,Clothing,Alice,77,148.26,0.01,11301.86,1700
+2024-05-12,West,Product B,Home & Garden,Eva,31,124.29,0.23,2966.8,5046
+2024-10-01,South,Product D,Books,Henry,85,369.7,0.02,40034.813,3073
+2023-05-13,South,Product B,Home & Garden,Alice,32,25.08,0.2,642.05,5661
+2023-12-08,East,Product D,Electronics,Grace,54,312.56,0.01,21722.298,1394
+2023-08-26,North,Product E,Home & Garden,Frank,98,382.72,0.25,28129.92,4048
+2024-10-28,West,Product E,Clothing,Bob,72,245.55,0.05,21834.306,4452
+2023-06-27,South,Product A,Electronics,Bob,59,466.47,0.15,23393.47,1522
+2023-03-28,East,Product C,Sports,Eva,41,356.86,0.08,13460.76,9741
+2024-06-15,South,Product D,Books,Frank,66,376.48,0.22,19381.19,2468
+2024-12-22,West,Product A,Books,Henry,96,106.5,0.1,11962.080000000002,7230
+2023-10-18,West,Product C,Home & Garden,Diana,54,390.87,0.22,21402.471999999998,9116
+2024-11-15,Central,Product D,Electronics,Diana,40,417.73,0.09,19766.981000000003,7811
+2024-07-05,North,Product B,Sports,Eva,28,187.02,0.23,4032.15,2421
+2024-11-11,Central,Product C,Electronics,Frank,37,114.55,0.01,5454.761,8987
+2024-04-06,East,Product E,Books,Eva,65,198.67,0.08,11880.47,1285
+2023-12-02,South,Product A,Electronics,Frank,74,372.41,0.15,30451.967,3745
+2024-01-18,East,Product C,Sports,Grace,55,214.64,0.01,11687.15,8108
+2023-01-07,West,Product C,Home & Garden,Grace,4,370.96,0.06,1394.81,5464
+2024-03-26,Central,Product E,Clothing,Alice,99,65.65,0.28,4679.53,2445
+2024-04-05,Central,Product D,Electronics,Henry,10,404.95,0.29,2875.14,6837
+2024-11-28,Central,Product B,Clothing,Eva,47,134.07,0.22,6389.513000000001,2466
+2023-09-06,East,Product E,Books,Henry,75,131.98,0.08,9106.62,8167
+2024-06-30,West,Product B,Home & Garden,Frank,14,299.29,0.08,3854.86,9479
+2023-10-04,South,Product D,Home & Garden,Diana,38,44.36,0.19,1775.0200000000002,5426
+2023-05-24,South,Product C,Electronics,Henry,12,22.89,0.04,263.69,6932
+2024-03-10,East,Product B,Home & Garden,Frank,45,137.9,0.28,4467.96,2178
+2024-01-20,Central,Product A,Electronics,Grace,17,273.65,0.07,4326.41,3551
+2024-08-31,North,Product A,Electronics,Frank,80,454.73,0.3,25464.88,5370
+2024-12-09,East,Product E,Clothing,Eva,35,424.75,0.15,16427.203,7322
+2023-07-29,East,Product D,Home & Garden,Alice,66,250.32,0.23,12721.26,5862
+2023-12-09,West,Product E,Electronics,Alice,75,28.16,0.0,2745.6,6855
+2024-05-27,South,Product E,Clothing,Alice,41,272.27,0.27,8149.04,2203
+2023-08-14,East,Product E,Sports,Alice,67,355.35,0.08,21903.77,8349
+2023-03-31,East,Product A,Clothing,Grace,29,176.19,0.2,4087.61,7386
+2024-10-16,Central,Product A,Clothing,Charlie,18,64.42,0.24,1145.651,2119
+2023-05-03,Central,Product E,Electronics,Henry,20,146.5,0.05,2783.5,9388
+2023-05-27,North,Product A,Books,Eva,14,388.08,0.13,4726.81,4975
+2023-10-15,West,Product D,Books,Bob,34,182.11,0.15,6841.874,9717
+2024-02-01,North,Product E,Books,Eva,49,407.87,0.09,18186.92,2292
+2023-06-16,Central,Product A,Clothing,Charlie,54,166.57,0.14,7735.51,4655
+2024-10-21,South,Product B,Electronics,Alice,31,90.14,0.1,3269.383,5786
+2024-09-19,Central,Product E,Home & Garden,Charlie,58,223.57,0.11,11540.68,3217
+2023-08-18,West,Product E,Clothing,Diana,42,231.61,0.2,7782.1,7590
+2024-12-27,Central,Product D,Clothing,Diana,58,17.89,0.19,1092.611,2017
+2024-05-26,West,Product C,Electronics,Henry,82,67.35,0.07,5136.11,6176
+2024-04-18,West,Product C,Sports,Grace,30,100.61,0.27,2203.36,4590
+2024-07-05,West,Product D,Clothing,Eva,25,65.66,0.26,1214.71,9239
+2023-12-11,West,Product D,Sports,Eva,63,177.35,0.15,12346.217,7176
+2024-10-11,West,Product D,Sports,Bob,19,482.67,0.13,10372.102,7647
+2023-08-09,South,Product C,Books,Grace,72,259.52,0.11,16630.04,5722
+2023-10-25,North,Product D,Electronics,Bob,92,317.5,0.21,29998.670000000002,7015
+2023-09-09,East,Product A,Sports,Diana,8,184.63,0.2,1181.63,6122
+2023-04-13,North,Product E,Electronics,Alice,95,168.51,0.06,15047.94,8683
+2023-01-19,West,Product E,Books,Charlie,3,21.34,0.2,51.22,3089
+2023-01-19,South,Product B,Electronics,Bob,67,255.16,0.08,15728.06,3056
+2024-05-23,Central,Product B,Clothing,Frank,86,246.97,0.01,21027.03,4680
+2023-03-19,South,Product E,Sports,Bob,81,87.34,0.21,5588.89,5885
+2023-03-02,West,Product A,Electronics,Alice,17,384.52,0.19,5294.84,4114
+2023-12-20,South,Product C,Home & Garden,Alice,14,251.41,0.12,4026.581,8383
+2024-03-10,South,Product C,Electronics,Eva,9,176.11,0.16,1331.39,2629
+2024-03-04,West,Product A,Sports,Charlie,62,81.99,0.28,3660.03,2543
+2024-02-17,South,Product C,Books,Alice,94,280.56,0.18,21625.56,8512
+2024-07-28,East,Product D,Books,Grace,21,378.88,0.2,6365.18,6769
+2023-01-27,East,Product E,Sports,Bob,76,148.18,0.02,11036.45,2904
+2023-06-23,South,Product E,Clothing,Bob,37,117.21,0.05,4119.93,2436
+2024-08-31,Central,Product A,Clothing,Diana,96,265.75,0.09,23215.92,6031
+2023-09-19,West,Product C,Books,Alice,11,86.12,0.16,795.75,4317
+2023-07-02,East,Product B,Books,Frank,20,336.64,0.23,5184.26,5116
+2024-05-06,Central,Product B,Sports,Eva,35,306.62,0.1,9658.53,5552
+2023-12-20,South,Product C,Clothing,Charlie,53,52.67,0.11,3229.7720000000004,6563
+2023-01-07,Central,Product B,Books,Frank,47,27.89,0.08,1205.96,7123
+2023-10-03,North,Product A,Clothing,Eva,75,313.94,0.08,28160.418,4061
+2023-10-17,East,Product A,Books,Bob,52,154.2,0.28,7505.225,9089
+2024-06-13,South,Product C,Electronics,Frank,8,52.36,0.19,339.29,9456
+2024-10-20,West,Product B,Home & Garden,Eva,4,382.12,0.05,1887.6779999999999,4731
+2024-11-14,South,Product A,Electronics,Bob,27,163.88,0.22,4486.703,7327
+2023-12-06,West,Product A,Books,Bob,44,235.2,0.22,10493.678000000002,4317
+2023-09-01,South,Product D,Home & Garden,Bob,40,126.04,0.2,4033.28,3046
+2024-02-08,Central,Product D,Home & Garden,Bob,47,317.39,0.04,14320.64,4144
+2023-08-17,Central,Product A,Books,Grace,94,157.73,0.12,13047.43,4221
+2023-06-18,Central,Product C,Books,Bob,44,484.33,0.03,20671.2,6064
+2024-02-29,North,Product E,Clothing,Diana,48,354.44,0.24,12929.97,1722
+2023-08-11,West,Product E,Books,Frank,91,76.99,0.2,5604.87,8775
+2024-11-27,Central,Product A,Sports,Eva,85,214.18,0.15,20116.850000000002,8564
+2023-04-28,North,Product A,Books,Diana,52,198.86,0.1,9306.65,9275
+2024-04-06,West,Product A,Sports,Grace,84,271.78,0.06,21459.75,5835
+2024-09-10,South,Product C,Books,Henry,68,422.55,0.03,27871.4,4819
+2024-07-28,North,Product D,Clothing,Henry,11,295.88,0.29,2310.82,4364
+2023-06-26,East,Product A,Sports,Diana,77,40.16,0.06,2906.78,7089
+2023-05-24,North,Product A,Electronics,Alice,73,331.15,0.02,23690.47,5318
+2024-08-14,North,Product B,Sports,Alice,4,14.05,0.29,39.9,7936
+2023-01-13,West,Product C,Clothing,Alice,76,392.18,0.16,25036.77,3780
+2023-02-03,South,Product A,Sports,Charlie,73,336.65,0.24,18677.34,8398
+2023-03-31,East,Product B,Books,Alice,77,161.3,0.01,12295.9,3452
+2023-04-01,Central,Product E,Books,Eva,48,153.3,0.17,6107.47,6288
+2024-09-23,Central,Product A,Clothing,Diana,26,401.15,0.12,9178.31,9520
+2023-12-30,North,Product A,Home & Garden,Eva,77,393.83,0.23,30355.234,1425
+2023-03-20,West,Product B,Books,Frank,39,182.63,0.01,7051.34,9961
+2023-04-18,West,Product C,Electronics,Alice,92,156.48,0.12,12668.62,4975
+2024-12-30,Central,Product A,Clothing,Grace,58,284.31,0.24,16292.094,9799
+2023-02-24,East,Product E,Sports,Charlie,19,14.1,0.16,225.04,7669
+2024-10-31,South,Product A,Sports,Frank,88,50.51,0.17,4796.025000000001,3124
+2024-06-14,East,Product E,Electronics,Grace,83,71.82,0.03,5782.23,2300
+2024-09-10,South,Product D,Books,Charlie,77,100.85,0.04,7454.83,6015
+2024-02-14,Central,Product D,Clothing,Henry,77,260.89,0.2,16070.82,9657
+2024-03-23,South,Product E,Electronics,Frank,58,496.2,0.2,23023.68,2964
+2024-10-12,West,Product C,Books,Henry,28,329.78,0.29,8522.839,6567
+2024-01-03,North,Product A,Clothing,Diana,66,40.04,0.21,2087.69,6279
+2024-08-10,North,Product A,Sports,Eva,10,267.53,0.15,2274.0,3360
+2023-03-29,Central,Product D,Clothing,Bob,86,253.36,0.26,16123.83,3039
+2024-04-05,West,Product E,Home & Garden,Eva,77,80.64,0.03,6023.0,2184
+2023-07-23,East,Product A,Clothing,Alice,58,460.93,0.13,23258.53,4934
+2024-02-07,West,Product A,Home & Garden,Henry,73,225.97,0.09,15011.19,6794
+2024-09-10,North,Product C,Clothing,Grace,97,497.33,0.03,46793.78,9172
+2024-02-14,North,Product B,Home & Garden,Bob,14,215.84,0.23,2326.76,1777
+2023-07-01,West,Product D,Sports,Charlie,84,307.9,0.15,21984.06,4379
+2024-01-16,West,Product D,Books,Henry,15,61.33,0.17,763.56,3418
+2024-07-28,North,Product B,Home & Garden,Diana,96,232.57,0.12,19647.51,5077
+2023-12-14,East,Product A,Home & Garden,Diana,33,127.0,0.14,4685.5380000000005,3439
+2023-02-26,Central,Product C,Sports,Henry,17,419.43,0.03,6916.4,8804
+2024-09-15,Central,Product C,Home & Garden,Henry,24,394.12,0.2,7567.1,6269
+2023-12-06,West,Product D,Electronics,Henry,30,413.85,0.13,14041.923999999999,6587
+2023-01-30,Central,Product C,Sports,Charlie,62,364.57,0.25,16952.5,2989
+2023-06-05,North,Product B,Electronics,Alice,13,418.01,0.06,5108.08,8868
+2024-07-19,North,Product A,Sports,Charlie,62,108.41,0.06,6318.13,1944
+2023-02-21,West,Product B,Home & Garden,Frank,47,231.5,0.19,8813.2,9220
+2023-07-26,West,Product E,Electronics,Grace,16,349.0,0.25,4188.0,2897
+2024-10-03,West,Product D,Home & Garden,Henry,66,322.32,0.14,23783.344,6751
+2024-06-17,East,Product C,Sports,Grace,81,361.01,0.22,22808.61,6150
+2024-06-12,Central,Product E,Home & Garden,Alice,96,119.89,0.3,8056.61,2697
+2023-09-08,West,Product C,Electronics,Bob,43,58.23,0.3,1752.72,6885
+2024-06-12,South,Product A,Electronics,Charlie,8,459.24,0.22,2865.66,2665
+2023-11-22,South,Product A,Home & Garden,Alice,3,284.48,0.22,865.384,9951
+2023-01-20,North,Product A,Clothing,Grace,12,85.37,0.07,952.73,2785
+2023-10-22,Central,Product C,Sports,Bob,84,398.78,0.25,32660.082000000002,6948
+2024-01-29,West,Product E,Sports,Charlie,16,458.32,0.12,6453.15,3607
+2023-01-17,South,Product A,Home & Garden,Diana,78,93.09,0.29,5155.32,9590
+2023-11-25,Central,Product E,Clothing,Charlie,80,410.53,0.02,41841.215000000004,3630
+2024-03-26,North,Product C,Electronics,Eva,59,467.28,0.13,23985.48,8660
+2024-05-04,East,Product E,Books,Charlie,49,469.8,0.17,19106.77,1238
+2024-08-15,Central,Product C,Books,Eva,63,457.94,0.12,25388.19,4536
+2023-09-21,Central,Product C,Home & Garden,Bob,62,277.75,0.06,16187.27,4861
+2024-09-02,East,Product D,Clothing,Charlie,49,184.54,0.18,7414.82,9491
+2024-12-19,Central,Product C,Clothing,Bob,51,13.56,0.23,692.25,8899
+2023-10-02,North,Product C,Sports,Bob,33,39.85,0.19,1384.747,8145
+2024-08-18,North,Product B,Electronics,Grace,30,220.13,0.07,6141.63,6861
+2024-09-01,East,Product A,Clothing,Alice,59,205.67,0.22,9464.93,1248
+2024-07-03,West,Product D,Books,Bob,76,100.51,0.08,7027.66,5323
+2023-11-06,South,Product D,Electronics,Bob,15,203.79,0.05,3775.213,8101
+2023-07-07,West,Product D,Electronics,Grace,82,95.58,0.21,6191.67,3860
+2023-07-22,Central,Product B,Home & Garden,Grace,92,425.91,0.25,29387.79,1723
+2023-04-09,South,Product C,Clothing,Charlie,23,156.12,0.14,3088.05,1569
+2024-05-29,East,Product A,Home & Garden,Grace,78,303.3,0.16,19872.22,9411
+2023-06-24,East,Product E,Clothing,Charlie,94,256.39,0.09,21931.6,3834
+2023-05-27,South,Product C,Sports,Diana,97,35.42,0.15,2920.38,8928
+2023-11-27,North,Product B,Home & Garden,Grace,45,471.69,0.04,26490.112999999998,7671
+2024-02-24,South,Product C,Home & Garden,Alice,62,268.34,0.29,11812.33,3122
+2024-08-27,Central,Product C,Books,Bob,79,169.28,0.24,10163.57,5000
+2024-05-25,North,Product B,Home & Garden,Alice,71,87.48,0.2,4968.86,4089
+2024-06-26,East,Product D,Clothing,Eva,15,175.88,0.16,2216.09,8165
+2023-10-25,South,Product D,Books,Henry,46,20.05,0.24,911.2350000000001,8210
+2024-11-17,West,Product A,Home & Garden,Grace,64,188.14,0.15,13305.266,1049
+2024-12-29,West,Product A,Home & Garden,Bob,46,270.43,0.09,14716.260000000002,1514
+2024-12-06,Central,Product D,Sports,Alice,56,437.21,0.05,30237.441,5671
+2023-02-26,West,Product E,Home & Garden,Grace,44,346.81,0.19,12360.31,8749
+2024-11-06,South,Product C,Electronics,Grace,75,64.68,0.28,4540.536,2165
+2023-03-30,South,Product E,Books,Henry,29,82.4,0.05,2270.12,1414
+2023-09-29,West,Product C,Electronics,Diana,95,219.78,0.05,19835.14,2104
+2023-04-09,South,Product D,Books,Diana,62,105.9,0.13,5712.25,5858
+2023-04-24,Central,Product A,Sports,Bob,89,23.65,0.24,1599.69,4356
+2023-03-01,North,Product A,Home & Garden,Eva,52,404.46,0.09,19139.05,3416
+2023-12-08,Central,Product E,Home & Garden,Diana,54,19.57,0.08,1263.912,6611
+2024-04-17,Central,Product A,Home & Garden,Henry,88,417.04,0.19,29726.61,6465
+2024-12-04,South,Product D,Books,Diana,57,80.61,0.16,5017.493,9395
+2023-04-29,North,Product E,Home & Garden,Eva,83,487.59,0.02,39660.57,8192
+2024-08-28,South,Product C,Electronics,Alice,66,305.9,0.02,19785.61,6672
+2024-07-17,East,Product A,Home & Garden,Diana,22,370.14,0.19,6595.89,9260
+2024-05-26,South,Product B,Sports,Henry,20,64.14,0.14,1103.21,9707
+2024-05-14,South,Product A,Electronics,Charlie,33,432.43,0.29,10131.83,4563
+2023-08-01,South,Product C,Home & Garden,Henry,72,421.2,0.2,24261.12,7383
+2024-05-15,North,Product E,Home & Garden,Frank,25,329.97,0.0,8249.25,9898
+2024-11-21,South,Product C,Clothing,Frank,46,256.11,0.14,13171.223,7833
+2023-09-28,North,Product B,Books,Diana,73,363.53,0.12,23353.17,5752
+2023-08-27,West,Product D,Electronics,Alice,98,12.9,0.03,1226.27,9123
+2024-03-28,East,Product A,Clothing,Grace,57,300.3,0.28,12324.31,4785
+2023-09-25,North,Product E,Sports,Alice,87,425.23,0.24,28116.21,9535
+2024-08-29,West,Product D,Books,Henry,5,184.88,0.07,859.69,9727
+2023-04-30,North,Product C,Electronics,Bob,55,63.06,0.08,3190.84,9546
+2023-10-06,North,Product E,Home & Garden,Charlie,61,216.23,0.01,16975.569,6023
+2024-10-14,East,Product D,Electronics,Alice,89,366.28,0.09,38564.526000000005,1982
+2023-07-27,Central,Product E,Home & Garden,Eva,8,62.58,0.18,410.52,2345
+2024-11-19,Central,Product B,Books,Henry,16,110.96,0.13,2007.928,6691
+2024-05-21,North,Product B,Home & Garden,Charlie,48,82.3,0.29,2804.78,7002
+2023-12-11,South,Product A,Sports,Frank,61,400.5,0.02,31124.457,1526
+2023-01-11,West,Product A,Home & Garden,Henry,15,40.82,0.18,502.09,7647
+2023-05-18,South,Product B,Sports,Charlie,65,346.43,0.26,16663.28,8252
+2024-07-15,South,Product E,Books,Eva,22,189.56,0.14,3586.48,1930
+2024-09-09,North,Product B,Books,Diana,3,380.34,0.0,1141.02,3282
+2024-05-07,North,Product A,Electronics,Eva,54,482.55,0.07,24233.66,2946
+2024-09-24,North,Product B,Sports,Eva,14,66.13,0.1,833.24,4360
+2023-10-16,North,Product B,Sports,Diana,36,164.05,0.29,5451.0560000000005,9112
+2024-04-09,Central,Product E,Clothing,Diana,82,406.96,0.27,24360.63,3925
+2024-07-15,North,Product D,Clothing,Diana,82,140.42,0.28,8290.4,4625
+2023-02-08,Central,Product A,Clothing,Diana,67,115.41,0.25,5799.35,6469
+2023-12-15,Central,Product E,Home & Garden,Diana,10,414.44,0.11,4795.076,2223
+2023-07-04,North,Product B,Clothing,Eva,49,493.67,0.27,17658.58,8110
+2023-06-03,East,Product B,Sports,Bob,65,282.87,0.29,13054.45,5992
+2024-03-13,West,Product D,Home & Garden,Bob,91,146.24,0.11,11843.98,9814
+2023-08-20,South,Product A,Books,Henry,57,205.3,0.08,10765.93,5787
+2024-07-17,Central,Product A,Electronics,Alice,27,93.36,0.16,2117.4,7818
+2023-04-19,West,Product C,Clothing,Bob,75,383.32,0.06,27024.06,5726
+2023-09-29,East,Product A,Books,Frank,5,389.0,0.01,1925.55,3372
+2023-12-02,South,Product D,Sports,Bob,71,438.81,0.28,29161.561,4299
+2023-09-12,South,Product C,Electronics,Eva,83,23.04,0.28,1376.87,7451
+2023-08-26,Central,Product C,Books,Diana,57,285.37,0.05,15452.79,9583
+2024-06-17,North,Product B,Electronics,Henry,93,114.99,0.12,9410.78,4809
+2024-12-13,East,Product B,Clothing,Diana,15,177.03,0.25,2589.067,3407
+2024-01-30,Central,Product A,Sports,Grace,99,394.63,0.2,31254.7,5864
+2023-04-22,East,Product C,Electronics,Grace,76,104.1,0.12,6962.21,6027
+2024-05-19,North,Product B,Books,Grace,30,322.79,0.22,7553.29,5260
+2023-07-22,North,Product D,Clothing,Eva,20,330.74,0.27,4828.8,5828
+2024-11-21,Central,Product B,Clothing,Frank,37,477.51,0.28,16537.131,9772
+2023-11-14,North,Product B,Books,Bob,3,389.83,0.11,1353.105,9315
+2023-04-15,West,Product C,Books,Eva,73,403.78,0.05,28002.14,2874
+2023-01-17,South,Product C,Electronics,Alice,41,270.48,0.27,8095.47,9715
+2023-11-04,Central,Product E,Home & Garden,Henry,39,101.52,0.03,4992.650000000001,4123
+2024-09-26,East,Product D,Clothing,Diana,26,218.53,0.22,4431.79,5224
+2024-04-01,West,Product C,Electronics,Grace,2,279.25,0.04,536.16,6254
+2023-10-07,Central,Product A,Books,Charlie,23,342.43,0.12,9010.014,4198
+2024-10-07,North,Product D,Electronics,Alice,23,307.78,0.12,8098.311000000001,8082
+2024-11-14,North,Product D,Books,Grace,85,203.05,0.05,21315.177000000003,2210
+2023-05-08,North,Product C,Sports,Frank,16,140.0,0.28,1612.8,6404
+2024-06-24,North,Product D,Books,Alice,9,92.43,0.0,831.87,5117
+2023-02-07,East,Product C,Books,Eva,13,349.98,0.27,3321.31,6429
+2024-08-25,West,Product B,Books,Bob,28,326.25,0.27,6668.55,9689
+2024-11-16,South,Product E,Home & Garden,Diana,27,346.81,0.1,10955.724,5758
+2024-11-08,East,Product B,Books,Henry,51,192.54,0.21,10084.672,9182
+2024-12-19,East,Product C,Clothing,Frank,64,138.58,0.08,10607.467,9916
+2024-08-09,South,Product C,Clothing,Frank,52,382.26,0.23,15305.69,1375
+2024-08-01,South,Product B,Electronics,Charlie,81,389.09,0.17,26158.52,8413
+2024-08-19,North,Product A,Home & Garden,Alice,38,233.25,0.09,8065.78,5398
+2023-09-27,East,Product A,Electronics,Charlie,65,309.83,0.12,17722.28,4859
+2023-10-17,Central,Product A,Clothing,Bob,18,193.02,0.21,3568.162,2686
+2023-10-17,South,Product C,Clothing,Grace,63,353.95,0.27,21161.608,6012
+2023-02-23,South,Product D,Sports,Bob,51,419.5,0.04,20538.72,1256
+2023-02-21,West,Product C,Books,Grace,9,347.23,0.17,2593.81,4600
+2024-11-28,Central,Product D,Clothing,Charlie,13,261.17,0.08,4060.6670000000004,1050
+2023-12-28,Central,Product B,Electronics,Diana,40,234.74,0.24,9276.93,7590
+2024-01-16,South,Product E,Electronics,Bob,55,324.74,0.02,17503.49,8437
+2023-01-27,North,Product D,Books,Charlie,79,343.11,0.21,21413.5,1594
+2023-12-27,West,Product A,Books,Alice,43,283.78,0.05,15070.133,5731
+2024-01-05,Central,Product C,Sports,Charlie,44,316.22,0.18,11409.22,4873
+2024-10-02,South,Product B,Home & Garden,Charlie,68,57.33,0.25,3800.979,6748
+2023-09-15,Central,Product A,Electronics,Eva,33,476.37,0.23,12104.56,6237
+2023-06-10,West,Product B,Books,Bob,24,397.48,0.23,7345.43,2476
+2024-08-27,West,Product E,Electronics,Henry,36,193.22,0.16,5842.97,5870
+2023-07-01,East,Product C,Books,Diana,10,285.78,0.27,2086.19,9032
+2023-04-04,South,Product C,Clothing,Diana,20,33.19,0.18,544.32,4020
+2024-06-10,West,Product E,Electronics,Eva,75,30.2,0.28,1630.8,7066
+2024-06-11,East,Product C,Clothing,Grace,12,132.89,0.16,1339.53,9053
+2024-03-12,East,Product D,Electronics,Frank,62,347.95,0.15,18336.96,9066
+2024-08-12,Central,Product B,Home & Garden,Grace,18,427.55,0.07,7157.19,9167
+2024-03-18,Central,Product A,Sports,Diana,94,284.0,0.16,22424.64,5780
+2024-10-20,East,Product E,Clothing,Charlie,63,270.75,0.04,21287.448,5045
+2023-12-16,Central,Product D,Books,Eva,84,207.13,0.26,16737.760000000002,3233
+2023-11-20,West,Product A,Home & Garden,Alice,25,89.18,0.2,2318.68,9117
+2024-10-02,North,Product A,Electronics,Bob,12,67.99,0.3,742.456,7359
+2023-02-07,West,Product E,Clothing,Bob,21,382.73,0.03,7796.21,5197
+2024-12-14,East,Product D,Electronics,Henry,25,464.48,0.07,14038.908,1615
+2023-08-09,East,Product A,Electronics,Bob,11,234.56,0.26,1909.32,2566
+2023-02-09,West,Product A,Electronics,Charlie,64,333.13,0.12,18761.88,3339
+2024-05-15,Central,Product D,Sports,Alice,73,458.08,0.14,28758.26,9109
+2024-09-18,Central,Product C,Sports,Eva,50,54.16,0.26,2003.92,8374
+2023-08-10,East,Product A,Books,Eva,62,387.54,0.16,20183.08,7707
+2023-09-08,South,Product B,Clothing,Bob,89,312.24,0.06,26122.0,1378
+2024-06-04,Central,Product D,Home & Garden,Alice,99,303.33,0.27,21921.66,4465
+2023-05-10,West,Product A,Home & Garden,Alice,96,153.34,0.01,14573.43,7005
+2023-01-11,Central,Product E,Home & Garden,Alice,49,345.11,0.27,12344.58,3271
+2023-10-03,West,Product B,Electronics,Diana,14,399.45,0.02,7124.585,2007
+2024-07-20,East,Product A,Sports,Diana,1,65.3,0.2,52.24,7800
+2023-06-29,Central,Product B,Clothing,Bob,81,271.43,0.02,21546.11,1109
+2023-01-23,West,Product B,Electronics,Alice,25,59.62,0.21,1177.5,3771
+2024-04-20,East,Product C,Sports,Frank,59,437.56,0.01,25557.88,4883
+2023-10-02,South,Product B,Sports,Alice,72,258.74,0.25,18163.548,3600
+2023-01-05,West,Product C,Clothing,Eva,69,405.9,0.14,24086.11,6518
+2023-08-20,South,Product D,Clothing,Eva,5,190.36,0.03,923.25,4243
+2024-04-02,South,Product C,Clothing,Bob,99,71.29,0.21,5575.59,2005
+2024-07-02,North,Product E,Electronics,Frank,19,30.33,0.15,489.83,1305
+2024-03-01,Central,Product A,Books,Alice,23,147.94,0.06,3198.46,6701
+2023-04-02,West,Product D,Clothing,Grace,9,129.67,0.0,1167.03,1958
+2023-07-04,South,Product D,Books,Frank,94,284.57,0.13,23272.13,6270
+2023-03-21,North,Product E,Electronics,Henry,50,20.65,0.03,1001.52,8595
+2023-02-26,East,Product C,Books,Bob,16,265.08,0.03,4114.04,4538
+2023-08-28,West,Product A,Home & Garden,Eva,33,201.97,0.08,6131.81,8020
+2024-05-21,South,Product C,Books,Grace,2,292.79,0.19,474.32,2630
+2023-10-24,Central,Product B,Clothing,Eva,14,354.18,0.16,5414.708,3603
+2024-04-25,North,Product C,Electronics,Diana,1,320.71,0.02,314.3,9258
+2023-08-05,South,Product D,Clothing,Bob,90,492.48,0.29,31469.47,1205
+2024-09-12,Central,Product A,Home & Garden,Bob,58,77.75,0.27,3291.94,6691
+2024-10-21,South,Product C,Clothing,Alice,89,220.57,0.08,23478.351000000002,7141
+2024-05-17,West,Product A,Clothing,Alice,16,218.17,0.04,3351.09,4145
+2023-01-05,West,Product A,Clothing,Diana,79,214.36,0.28,12192.8,4120
+2024-04-30,West,Product B,Sports,Grace,90,335.26,0.14,25949.12,7728
+2024-07-16,North,Product B,Home & Garden,Henry,47,250.02,0.09,10693.36,9899
+2023-07-21,West,Product D,Clothing,Charlie,44,263.54,0.15,9856.4,7030
+2023-06-19,Central,Product E,Clothing,Frank,80,221.85,0.23,13665.96,1178
+2023-12-12,South,Product A,Clothing,Charlie,14,495.93,0.05,8574.631,6167
+2024-04-09,East,Product E,Electronics,Charlie,93,464.51,0.23,33263.56,1112
+2024-08-06,Central,Product D,Sports,Bob,24,160.78,0.22,3009.8,9948
+2023-09-19,Central,Product A,Electronics,Frank,55,64.68,0.16,2988.22,9350
+2023-07-07,West,Product A,Sports,Bob,15,421.48,0.26,4678.43,9977
+2024-11-13,North,Product E,Clothing,Henry,83,498.61,0.04,51648.012,2803
+2023-04-08,South,Product C,Home & Garden,Frank,72,153.38,0.18,9055.56,3298
+2024-09-05,North,Product B,Books,Eva,34,185.31,0.13,5481.47,2542
+2024-04-08,South,Product C,Books,Bob,2,471.4,0.13,820.24,8259
+2024-09-10,South,Product E,Clothing,Bob,27,358.45,0.08,8903.9,3154
+2024-05-02,North,Product B,Electronics,Bob,74,154.86,0.11,10199.08,9766
+2023-03-25,Central,Product C,Home & Garden,Grace,99,294.71,0.03,28301.0,2381
+2023-07-20,South,Product B,Sports,Diana,87,472.67,0.08,37832.51,6902
+2024-07-09,North,Product A,Clothing,Bob,72,407.79,0.08,27012.01,2222
+2024-07-06,South,Product C,Home & Garden,Henry,92,373.5,0.22,26802.36,2501
+2024-09-09,East,Product B,Home & Garden,Alice,23,371.13,0.01,8450.63,4574
+2024-01-12,Central,Product B,Sports,Alice,68,97.23,0.2,5289.31,4729
+2024-05-28,West,Product B,Home & Garden,Frank,14,414.09,0.07,5391.45,8740
+2023-11-29,South,Product C,Electronics,Eva,63,145.3,0.02,11662.066,4191
+2024-07-28,East,Product D,Electronics,Diana,93,465.88,0.09,39427.42,8476
+2023-10-02,West,Product C,Electronics,Grace,65,188.67,0.07,14826.630000000001,2561
+2024-12-20,West,Product E,Home & Garden,Frank,68,430.25,0.17,31568.303000000004,3522
+2024-07-09,South,Product C,Electronics,Alice,63,140.45,0.11,7875.03,3391
+2024-06-08,North,Product B,Sports,Diana,96,262.12,0.29,17866.1,3675
+2024-01-14,South,Product A,Home & Garden,Diana,97,62.37,0.29,4295.42,3183
+2024-09-23,East,Product C,Books,Eva,90,333.46,0.13,26109.92,9468
+2024-12-27,West,Product C,Home & Garden,Henry,81,419.68,0.24,33586.15,9066
+2023-09-11,South,Product B,Sports,Diana,87,362.04,0.0,31497.48,3078
+2023-07-16,North,Product A,Books,Bob,64,266.4,0.16,14321.66,5342
+2024-02-26,South,Product A,Home & Garden,Diana,32,32.11,0.22,801.47,2120
+2024-07-27,Central,Product E,Electronics,Eva,79,467.39,0.07,34339.14,6419
+2024-05-09,North,Product C,Clothing,Frank,13,355.69,0.02,4531.49,4370
+2023-05-26,East,Product A,Clothing,Eva,66,375.47,0.05,23541.97,2908
+2023-04-24,West,Product A,Electronics,Grace,19,399.39,0.13,6601.92,4520
+2023-12-13,South,Product D,Clothing,Eva,24,376.39,0.15,9981.868,5307
+2024-08-11,North,Product D,Clothing,Alice,88,226.15,0.11,17712.07,5496
+2023-08-15,Central,Product A,Electronics,Bob,11,369.47,0.13,3535.83,5750
+2023-05-11,North,Product E,Electronics,Henry,59,316.26,0.14,16047.03,1497
+2023-05-09,Central,Product A,Home & Garden,Alice,86,428.47,0.23,28373.28,7991
+2024-09-09,East,Product B,Home & Garden,Frank,15,403.21,0.03,5866.71,4587
